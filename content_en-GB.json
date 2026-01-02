@@ -1,5 +1,0 @@
-{
-  "httpStatus": 400,
-  "errorCode": "UNKNOWN_LOCALE",
-  "message": "unknown locale requested"
-}
