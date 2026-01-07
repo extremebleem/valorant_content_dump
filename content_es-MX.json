@@ -1,5 +1,5 @@
 {
-  "version": "release-11.11",
+  "version": "release-12.00",
   "characters": [
     {
       "name": "Gekko",
@@ -939,6 +939,21 @@
       "assetName": "Default__LMG_MonkeyKing_v3_PrimaryAsset_C"
     },
     {
+      "name": "Ares Montaje",
+      "id": "3D54E034-4D0B-948E-17DC-998D96960BCC",
+      "assetName": "Default__LMG_Montage_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Ares Montaje\r\n(Variante 1 Rosa)",
+      "id": "0459C343-4AA9-BD43-4656-20B99FCAB29E",
+      "assetName": "Default__LMG_Montage_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Ares Montaje\r\n(Variante 2 Morada)",
+      "id": "AED9AD6B-4F5B-A5B2-3313-06B3A8C346DB",
+      "assetName": "Default__LMG_Montage_v2_PrimaryAsset_C"
+    },
+    {
       "name": "Ares Ion",
       "id": "0129321B-4E7E-6A56-D4F5-F690D8FB6909",
       "assetName": "Default__LMG_Oblivion2_Standard_PrimaryAsset_C"
@@ -1527,6 +1542,11 @@
       "name": "Vandal Paracorazones\n(Variante 2 Azul)",
       "id": "99274197-4528-0443-08CE-D0812CD6E1B2",
       "assetName": "Default__AK_Fusionwave_v2_PrimaryAsset_C"
+    },
+    {
+      "name": "Vandal Superserie",
+      "id": "64241E28-4242-C309-A84A-008B97DD5B25",
+      "assetName": "Default__AK_GettingSweaty_Standard_PrimaryAsset_C"
     },
     {
       "name": "Vandal Venganza de Dolmir",
@@ -2374,17 +2394,17 @@
       "assetName": "Default__Burst_Coven_Standard_PrimaryAsset_C"
     },
     {
-      "name": "Bulldog Nocturnum nivel 4\n\n(Variante 1 Negra)",
+      "name": "Bulldog Nocturnum nivel 4\r\n(Variante 1 Negra)",
       "id": "397B990C-46DF-4EBB-5DDA-779082E408DA",
       "assetName": "Default__Burst_Coven_v1_PrimaryAsset_C"
     },
     {
-      "name": "Bulldog Nocturnum nivel 4\n\n(Variante 2 Azul)",
+      "name": "Bulldog Nocturnum nivel 4\r\n(Variante 2 Azul)",
       "id": "DDA610CB-4E70-85F3-E119-B69155417830",
       "assetName": "Default__Burst_Coven_v2_PrimaryAsset_C"
     },
     {
-      "name": "Bulldog Nocturnum nivel 4\n\n(Variante 3 Amarilla)",
+      "name": "Bulldog Nocturnum nivel 4\r\n(Variante 3 Amarilla)",
       "id": "11A2DFBE-4F2E-E264-33C2-8CA412EE6B42",
       "assetName": "Default__Burst_Coven_v3_PrimaryAsset_C"
     },
@@ -3024,17 +3044,17 @@
       "assetName": "Default__Carbine_Coven_Standard_PrimaryAsset_C"
     },
     {
-      "name": "Phantom Nocturnum nivel 4\n\n(Variante 1 Negra)",
+      "name": "Phantom Nocturnum nivel 4\r\n(Variante 1 Negra)",
       "id": "BC78C07F-47DD-65F5-89A8-15919F084756",
       "assetName": "Default__Carbine_Coven_V1_PrimaryAsset_C"
     },
     {
-      "name": "Phantom Nocturnum nivel 4\n\n(Variante 2 Azul)",
+      "name": "Phantom Nocturnum nivel 4\r\n(Variante 2 Azul)",
       "id": "0C72282B-4C3C-6BE0-F700-A2B56CA77460",
       "assetName": "Default__Carbine_Coven_V2_PrimaryAsset_C"
     },
     {
-      "name": "Phantom Nocturnum nivel 4\n\n(Variante 3 Amarilla)",
+      "name": "Phantom Nocturnum nivel 4\r\n(Variante 3 Amarilla)",
       "id": "21E177E6-42F7-6FDC-B2EA-0D89DE89FE2C",
       "assetName": "Default__Carbine_Coven_V3_PrimaryAsset_C"
     },
@@ -3504,6 +3524,21 @@
       "assetName": "Default__Carbine_ModelMaker_Standard_PrimaryAsset_C"
     },
     {
+      "name": "Phantom Montaje",
+      "id": "6349EA5E-40DE-BD8F-6657-34AF1F0183F8",
+      "assetName": "Default__Carbine_Montage_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Montaje\n(Variante 1 Rosa)",
+      "id": "A1B482EB-4A83-CD7C-D5ED-33B1A6EA5206",
+      "assetName": "Default__Carbine_Montage_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Montaje\n(Variante 2 Morada)",
+      "id": "B69A57B1-4F2F-492E-789A-D68BD1395FBF",
+      "assetName": "Default__Carbine_Montage_v2_PrimaryAsset_C"
+    },
+    {
       "name": "Phantom Galería",
       "id": "7A53DD42-48C0-DDF9-424D-D7BB478A24AD",
       "assetName": "Default__AssaultRifle_ACR_Murals_Standard_PrimaryAsset_C"
@@ -3887,6 +3922,26 @@
       "name": "Phantom Convergencia",
       "id": "B409D8CB-4DEE-85B5-0D11-4082621DD3F9",
       "assetName": "Default__Carbine_YinYang_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi",
+      "id": "58B05AE6-4126-2BE4-84C1-1E9D63409091",
+      "assetName": "Default__Carbine_Yokai_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi nivel 4\n(Variante 1 Roja)",
+      "id": "A6D4E18C-4C75-6648-FD29-B4A4345983B3",
+      "assetName": "Default__Carbine_Yokai_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi nivel 4\n(Variante 2 Rosa)",
+      "id": "ADE1FD1B-4E09-303B-F14B-F4BE212B0CBC",
+      "assetName": "Default__Carbine_Yokai_v2_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi nivel 4\n(Variante 3 Azul)",
+      "id": "2006BE54-4D9D-CBFE-A325-818A9571E1A4",
+      "assetName": "Default__Carbine_Yokai_v3_PrimaryAsset_C"
     },
     {
       "name": "Judge Barreno Espacial",
@@ -4794,6 +4849,11 @@
       "assetName": "Default__PumpShotgun_StreetArt_Standard_PrimaryAsset_C"
     },
     {
+      "name": "Bucky Tempestario",
+      "id": "1B8CBF78-45CD-3140-6064-688DEF115317",
+      "assetName": "Default__PumpShotgun_TheStorm_Standard_PrimaryAsset_C"
+    },
+    {
       "name": "Bucky Tierra de Nadie",
       "id": "CAA2CEC8-4F09-5A38-BC86-F09D3786BFC4",
       "assetName": "Default__PumpShotgun_Wasteland2_Standard_PrimaryAsset_C"
@@ -5077,6 +5137,21 @@
       "name": "Frenzy Artesanías de Combate",
       "id": "C8057F32-42A4-7FDB-F9E7-74978C0B9727",
       "assetName": "Default__AutoPistol_ModelMaker_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Frenzy Montaje",
+      "id": "77BAF127-4834-1E6B-0E22-7AAD3E2F531E",
+      "assetName": "Default__AutoPistol_Montage_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Frenzy Montaje\n(Variante 1 Rosa)",
+      "id": "E4BEC095-4ED3-86E0-413E-99AB9B4FEB1D",
+      "assetName": "Default__AutoPistol_Montage_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Frenzy Montaje\r\n(Variante 2 Morada)",
+      "id": "BC1F691A-47C8-F4B3-DC26-49AF903A16DC",
+      "assetName": "Default__AutoPistol_Montage_v2_PrimaryAsset_C"
     },
     {
       "name": "Frenzy Lunera",
@@ -5537,6 +5612,11 @@
       "name": "Classic Interlumen\n(Variante 3 Morada)",
       "id": "3D890975-4929-958A-6724-FCA23CD1057C",
       "assetName": "Default__BasePistol_Galaxis_v3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic Superserie",
+      "id": "38BCCD91-481B-7EFA-2D03-168111F44299",
+      "assetName": "Default__BasePistol_GettingSweaty_Standard_PrimaryAsset_C"
     },
     {
       "name": "Classic Resplandor",
@@ -6309,9 +6389,234 @@
       "assetName": "Default__BasePistol_VCTCaps25_ZETA_Standard_PrimaryAsset_C"
     },
     {
+      "name": "Classic VCT26 x 100T",
+      "id": "382C188B-4F5B-192D-7B89-E8BFC9A25B0F",
+      "assetName": "Default__BasePistol_VCTCaps26_100T_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x AG",
+      "id": "CCE9ECF0-4AAA-7310-C415-EF8556B014DD",
+      "assetName": "Default__BasePistol_VCTCaps26_AG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BBL",
+      "id": "2349D9E0-467A-7B2D-96BD-37BD3CB60267",
+      "assetName": "Default__BasePistol_VCTCaps26_BBL_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BLG",
+      "id": "A16D925B-4080-336E-ED7E-89AA2F12B92F",
+      "assetName": "Default__BasePistol_VCTCaps26_BLG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x C9",
+      "id": "B3BCA22F-47E2-277F-F995-ABADB6B406AD",
+      "assetName": "Default__BasePistol_VCTCaps26_C9_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DFM",
+      "id": "A96BCC36-46F4-CF8B-5EBC-FD8901FCEE23",
+      "assetName": "Default__BasePistol_VCTCaps26_DFM_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRG",
+      "id": "74AA2CC5-4978-69DC-CDB3-51914E9FE420",
+      "assetName": "Default__BasePistol_VCTCaps26_DRG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRX",
+      "id": "10C92F2F-43A5-0F80-4678-22890482A711",
+      "assetName": "Default__BasePistol_VCTCaps26_DRX_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EDG",
+      "id": "B19AE08B-44B5-4EC8-35F5-AF9DF91DDA02",
+      "assetName": "Default__BasePistol_VCTCaps26_EDG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EG",
+      "id": "F6C78871-4F59-E6E9-FD89-1B8329D48866",
+      "assetName": "Default__BasePistol_VCTCaps26_EG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FNC",
+      "id": "BAA058B9-49AC-C7CD-880C-41A7AC728809",
+      "assetName": "Default__BasePistol_VCTCaps26_FNC_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FPX",
+      "id": "2A4FD4F0-467A-65AE-9741-FBBF60C9AF91",
+      "assetName": "Default__BasePistol_VCTCaps26_FPX_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUR",
+      "id": "E162669E-4868-00F7-549F-759087295B79",
+      "assetName": "Default__BasePistol_VCTCaps26_FUR_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUT",
+      "id": "BA1DA274-4ED1-4E0D-10F5-F8A0F7F92999",
+      "assetName": "Default__BasePistol_VCTCaps26_FUT_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x G2",
+      "id": "D23447BF-410E-4F4E-D1DB-A7997BD7B298",
+      "assetName": "Default__BasePistol_VCTCaps26_G2_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GEN",
+      "id": "51159878-4630-9FEB-8D60-9092812D27E2",
+      "assetName": "Default__BasePistol_VCTCaps26_GEN_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GE",
+      "id": "C296E1EE-4E6F-E5E8-7C9B-A7864C995DFE",
+      "assetName": "Default__BasePistol_VCTCaps26_GES_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GX",
+      "id": "F868EC3B-46FC-A6C3-4CCD-06A9A889CD41",
+      "assetName": "Default__BasePistol_VCTCaps26_GX_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x JDG",
+      "id": "DB5EE408-404E-BC93-3E4D-E7811170811F",
+      "assetName": "Default__BasePistol_VCTCaps26_JDG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KC",
+      "id": "15F2C715-40BC-AE2E-E4EB-DDA2B1F2BB79",
+      "assetName": "Default__BasePistol_VCTCaps26_KC_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KRÜ",
+      "id": "238B5EE7-4B27-A078-5E24-F4B5508E1A66",
+      "assetName": "Default__BasePistol_VCTCaps26_KRU_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LEV",
+      "id": "6C147067-4ADA-0626-4CC4-6BAD0C02348A",
+      "assetName": "Default__BasePistol_VCTCaps26_LEV_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LOUD",
+      "id": "50E1B02D-4F19-1479-12F0-46ADDB7A828C",
+      "assetName": "Default__BasePistol_VCTCaps26_LOUD_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x M8",
+      "id": "B8A7E9B5-4E90-1C79-4C1D-508FDF82FAF2",
+      "assetName": "Default__BasePistol_VCTCaps26_M8_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x MIBR",
+      "id": "8980AF0F-40FD-58CC-682A-CC83B975BAF5",
+      "assetName": "Default__BasePistol_VCTCaps26_MIBR_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NAVI",
+      "id": "465B36EA-4E2C-0EEB-DB78-7BA7A5E75FBB",
+      "assetName": "Default__BasePistol_VCTCaps26_NAVI_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NOVA",
+      "id": "1789DABC-47BB-9042-5DD8-CC89CF07D8FC",
+      "assetName": "Default__BasePistol_VCTCaps26_NOVA_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NRG",
+      "id": "9B5FF901-40C7-D5A0-BA39-76BE1D3545B4",
+      "assetName": "Default__BasePistol_VCTCaps26_NRG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NS",
+      "id": "D2E9D879-4B08-4815-D95D-E1AA3385D27C",
+      "assetName": "Default__BasePistol_VCTCaps26_NS_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x PRX",
+      "id": "490A926F-48F7-EB42-6862-60BCF7A8E28C",
+      "assetName": "Default__BasePistol_VCTCaps26_PRX_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x RRQ",
+      "id": "A12676DB-4F97-3F6B-180E-7C9C3D591C43",
+      "assetName": "Default__BasePistol_VCTCaps26_RRQ_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x SEN",
+      "id": "26095B3D-4851-2752-D182-AE9ACA986F9F",
+      "assetName": "Default__BasePistol_VCTCaps26_SEN_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x T1",
+      "id": "6E4AE4B6-43C8-3625-538B-3B9B84E8610F",
+      "assetName": "Default__BasePistol_VCTCaps26_T1_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TE",
+      "id": "AE740EC9-4815-147D-EAC9-CB913141D8C9",
+      "assetName": "Default__BasePistol_VCTCaps26_TE_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TEC",
+      "id": "251B5854-4F65-51A2-2C7E-569DBF157D57",
+      "assetName": "Default__BasePistol_VCTCaps26_TEC_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TH",
+      "id": "457E000F-4B17-4BFE-AE96-61939FA8D244",
+      "assetName": "Default__BasePistol_VCTCaps26_TH_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TL",
+      "id": "629DC7A1-4076-092A-4830-AFA7F9CEAD67",
+      "assetName": "Default__BasePistol_VCTCaps26_TL_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TS",
+      "id": "38E2150C-4BD6-A6F6-6B06-8CA2D528C603",
+      "assetName": "Default__BasePistol_VCTCaps26_TS_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TYL",
+      "id": "786F092C-4CA2-C690-B6FD-DAB6C3A7C4F8",
+      "assetName": "Default__BasePistol_VCTCaps26_TYL_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x VIT",
+      "id": "77502E15-4D88-05E3-48BE-D8A75D2F3CF0",
+      "assetName": "Default__BasePistol_VCTCaps26_VIT_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x WOL",
+      "id": "2DC31FD4-4382-9B13-12E6-DCAC36A68C69",
+      "assetName": "Default__BasePistol_VCTCaps26_WOL_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x XLG",
+      "id": "E2C24576-4FDB-4752-B1FA-0DB0B7F2A7E5",
+      "assetName": "Default__BasePistol_VCTCaps26_XLG_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x ZETA",
+      "id": "74A7CB8F-4E74-F130-623F-FDB8621AA479",
+      "assetName": "Default__BasePistol_VCTCaps26_ZETA_Standard_PrimaryAsset_C"
+    },
+    {
       "name": "Classic Fauces de la Tempestad",
       "id": "B7C235A8-4F3F-381D-931F-9A983D4A1FD7",
       "assetName": "Default__BasePistol_Wolfeyes_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Standard",
+      "id": "B6BB99EF-4A48-DAB2-C409-6C880E8EC2A9",
+      "assetName": "Default__Compact_Random_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Bandit",
+      "id": "FF308F94-427D-E6D3-8FCB-258F5D4C2C29",
+      "assetName": "Default__Compact_Standard_Standard_PrimaryAsset_C"
     },
     {
       "name": "Ghost Alada",
@@ -6984,6 +7289,26 @@
       "assetName": "Default__LugerPistol_Wraith_Standard_PrimaryAsset_C"
     },
     {
+      "name": "Ghost Ayakashi",
+      "id": "7486C55A-4F30-9228-96A7-53844B0D7A33",
+      "assetName": "Default__Luger_Yokai_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Ghost Ayakashi nivel 4\n(Variante 1 Roja)",
+      "id": "C549ADB1-42B5-C3AD-F1BE-A98C1DCC6670",
+      "assetName": "Default__Luger_Yokai_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Ghost Ayakashi nivel 4\n(Variante 2 Rosa)",
+      "id": "146C5A32-4641-D43E-49BF-EFA384A4F551",
+      "assetName": "Default__Luger_Yokai_v2_PrimaryAsset_C"
+    },
+    {
+      "name": "Ghost Ayakashi nivel 4\n(Variante 3 Azul)",
+      "id": "A31F040C-44B4-A9A0-4B52-94875B1984F8",
+      "assetName": "Default__Luger_Yokai_v3_PrimaryAsset_C"
+    },
+    {
       "name": "Sheriff Nómada",
       "id": "0D3C5CA0-49A2-EEF8-D01A-2E9DD8D5D574",
       "assetName": "Default__Revolver_A21_Standard_PrimaryAsset_C"
@@ -7617,6 +7942,11 @@
       "name": "Sheriff Tejenubes",
       "id": "826D2C1E-4C52-64A3-5711-149BF10A919D",
       "assetName": "Default__Revolver_Tattoo_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Sheriff Tempestario",
+      "id": "39B6299E-4F81-5902-467F-79ADF6E47122",
+      "assetName": "Default__Revolver_TheStorm_Standard_PrimaryAsset_C"
     },
     {
       "name": "Sheriff Arenisca",
@@ -8654,6 +8984,11 @@
       "assetName": "Default__BoltSniper_StreetWear_v3_PrimaryAsset_C"
     },
     {
+      "name": "Operator Tempestario",
+      "id": "4A005AB5-4D13-54A8-DA10-41A66EC4B446",
+      "assetName": "Default__BoltSniper_TheStorm_Standard_PrimaryAsset_C"
+    },
+    {
       "name": "Standard",
       "id": "82C279DF-423E-F87C-F62E-93BD7604025C",
       "assetName": "Default__BoltSniper_Tiger_Standard_PrimaryAsset_C"
@@ -9294,6 +9629,11 @@
       "assetName": "Default__DMR_Tarot_Standard_PrimaryAsset_C"
     },
     {
+      "name": "Guardian Tempestario",
+      "id": "4E4BAFF1-4CC9-13E1-8CB5-DA9B9BA3073D",
+      "assetName": "Default__DMR_TheStorm_Standard_PrimaryAsset_C"
+    },
+    {
       "name": "Guardian Corcel Maravilla",
       "id": "CA2A999F-4762-7A69-8C28-429B325746D6",
       "assetName": "Default__DMR_Unicorn_Standard_PrimaryAsset_C"
@@ -9649,17 +9989,17 @@
       "assetName": "Default__LeverSniper_Coven_Standard_PrimaryAsset_C"
     },
     {
-      "name": "Marshal Nocturnum nivel 4\n\n(Variante 1 Negra)",
+      "name": "Marshal Nocturnum nivel 4\r\n(Variante 1 Negra)",
       "id": "5CE8C7D8-4398-7421-2F58-4788B42EA92A",
       "assetName": "Default__LeverSniper_Coven_V1_PrimaryAsset_C"
     },
     {
-      "name": "Marshal Nocturnum nivel 4\n\n(Variante 2 Azul)",
+      "name": "Marshal Nocturnum nivel 4\r\n(Variante 2 Azul)",
       "id": "0D37D691-452C-1006-938D-818FAE0580A9",
       "assetName": "Default__LeverSniper_Coven_V2_PrimaryAsset_C"
     },
     {
-      "name": "Marshal Nocturnum nivel 4\n\n(Variante 3 Amarilla)",
+      "name": "Marshal Nocturnum nivel 4\r\n(Variante 3 Amarilla)",
       "id": "CBBA0270-4F54-39E9-B851-13A37DCB171C",
       "assetName": "Default__LeverSniper_Coven_V3_PrimaryAsset_C"
     },
@@ -9717,6 +10057,11 @@
       "name": "Marshal Interlumen\n(Variante 3 Morada)",
       "id": "1A88B12A-4083-9AC2-7ED7-FCBD1ECA9A6A",
       "assetName": "Default__LeverSniper_Galaxis_v3_PrimaryAsset_C"
+    },
+    {
+      "name": "Marshal Superserie",
+      "id": "7BD25A14-4F21-D4D2-CAD2-75843E4EDAB2",
+      "assetName": "Default__LeverSniper_GettingSweaty_Standard_PrimaryAsset_C"
     },
     {
       "name": "Marshal Ruina",
@@ -10472,6 +10817,21 @@
       "name": "Spectre Mínima",
       "id": "0D608736-4753-DFF9-C62D-E9B43F038317",
       "assetName": "Default__MP5_Minima_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Spectre Montaje",
+      "id": "A32C7595-4F91-5253-9BF9-77B72B116D29",
+      "assetName": "Default__MP5_Montage_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Spectre Montaje\n(Variante 1 Rosa)",
+      "id": "1C223D89-4E3D-CE35-1C20-2CB92981B342",
+      "assetName": "Default__MP5_Montage_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Spectre Montaje\n(Variante 2 Morada)",
+      "id": "18911E12-4D3D-9D48-7BC3-8887EC3B1F30",
+      "assetName": "Default__MP5_Montage_v2_PrimaryAsset_C"
     },
     {
       "name": "Spectre Kuronami",
@@ -11704,17 +12064,17 @@
       "assetName": "Default__Melee_Coven_Standard_PrimaryAsset_C"
     },
     {
-      "name": "Guadaña Nocturnum nivel 2\n\n(Variante 1 Negra)",
+      "name": "Guadaña Nocturnum nivel 2\r\n(Variante 1 Negra)",
       "id": "19B110B9-48C9-A5DB-A235-87A43354B666",
       "assetName": "Default__Melee_Coven_v1_PrimaryAsset_C"
     },
     {
-      "name": "Guadaña Nocturnum nivel 2\n\n(Variante 2 Azul)",
+      "name": "Guadaña Nocturnum nivel 2\r\n(Variante 2 Azul)",
       "id": "FC8AF1E9-416E-BF5F-6933-E5958F8D879C",
       "assetName": "Default__Melee_Coven_v2_PrimaryAsset_C"
     },
     {
-      "name": "Guadaña Nocturnum nivel 2\n\n(Variante 3 Amarilla)",
+      "name": "Guadaña Nocturnum nivel 2\r\n(Variante 3 Amarilla)",
       "id": "F7BA8829-4E9B-4BEA-945A-2D979B27B011",
       "assetName": "Default__Melee_Coven_v3_PrimaryAsset_C"
     },
@@ -12209,22 +12569,22 @@
       "assetName": "Default__Melee_Iridescence2_v3_PrimaryAsset_C"
     },
     {
-      "name": "Espada del Rey Arruinado",
+      "name": "Espada del Rey Arruinado nivel 2",
       "id": "28DD8AE8-4C0F-77C6-275D-E2BB310E95EB",
       "assetName": "Default__Melee_King_Standard_PrimaryAsset_C"
     },
     {
-      "name": "Espada del Rey Arruinado nivel 2\n\n(Variante 1 Morada)",
+      "name": "Espada del Rey Arruinado nivel 2\r\n(Variante 1 Morada)",
       "id": "BE97A416-46FE-1539-4BD7-8E9C54F1938B",
       "assetName": "Default__Melee_King_v1_PrimaryAsset_C"
     },
     {
-      "name": "Espada del Rey Arruinado nivel 2\n\nVariante 2 (Roja/Amarilla):",
+      "name": "Espada del Rey Arruinado nivel 2\r\nVariante 2 (Roja/Amarilla)",
       "id": "FDA6F206-4741-88FE-CC2A-3EB3233D5328",
       "assetName": "Default__Melee_King_v2_PrimaryAsset_C"
     },
     {
-      "name": "Espada del Rey Arruinado nivel 2\n\n(Variante 3 Verde)",
+      "name": "Espada del Rey Arruinado nivel 2\r\n(Variante 3 Verde)",
       "id": "DC3845CA-46A1-7501-6B6B-F9B905E3CF44",
       "assetName": "Default__Melee_King_v3_PrimaryAsset_C"
     },
@@ -12417,6 +12777,21 @@
       "name": "Báculo Ruyi nivel 2\n\n(Variante 3 Noche)",
       "id": "8740C9E6-4696-A04A-E65F-ABB8F8BC6812",
       "assetName": "Default__Melee_MonkeyKing_v3_PrimaryAsset_C"
+    },
+    {
+      "name": "Hacha Montaje",
+      "id": "50CF41A3-40E8-AF02-2C11-EB935A7A9B72",
+      "assetName": "Default__Melee_Montage_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Hacha Montaje\n(Variante 1 Rosa)",
+      "id": "BC3286CA-449F-E15F-AF9E-9E95B51C9832",
+      "assetName": "Default__Melee_Montage_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Hacha Montaje\n(Variante 2 Morada)",
+      "id": "B1F308CB-4B17-38F9-829D-50AA7CB29600",
+      "assetName": "Default__Melee_Montage_v2_PrimaryAsset_C"
     },
     {
       "name": "Cuchilla Overdrive",
@@ -13122,6 +13497,26 @@
       "name": "Hacha Fauces de la Tempestad",
       "id": "AFD4C880-4C88-72D1-F77F-ABAA333AF5E8",
       "assetName": "Default__Melee_Wolfeyes_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Kogitsune",
+      "id": "73BD2862-42BF-3AB2-5546-0E93C6AB74B3",
+      "assetName": "Default__Melee_Yokai_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Kogitsune nivel 2\n(Variante 1 Roja)",
+      "id": "13BA5977-46BA-60F4-6351-248666FF552B",
+      "assetName": "Default__Melee_Yokai_v1_PrimaryAsset_C"
+    },
+    {
+      "name": "Kogitsune nivel 2\n(Variante 2 Rosa)",
+      "id": "E6F018DE-492B-ED0E-FCB8-E587CF6E7FB9",
+      "assetName": "Default__Melee_Yokai_v2_PrimaryAsset_C"
+    },
+    {
+      "name": "Kogitsune nivel 2\n(Variante 3 Azul)",
+      "id": "D8323B21-4661-1F2B-107B-70A1C77AC851",
+      "assetName": "Default__Melee_Yokai_v3_PrimaryAsset_C"
     }
   ],
   "skins": [
@@ -13436,6 +13831,11 @@
       "assetName": "Default__LMG_MonkeyKing_PrimaryAsset_C"
     },
     {
+      "name": "Ares Montaje",
+      "id": "DE06622C-4BF3-D9AF-2191-11BF1C55CA54",
+      "assetName": "Default__LMG_Montage_PrimaryAsset_C"
+    },
+    {
       "name": "Ares Ion",
       "id": "0F4B0478-4759-911D-C44B-2A907534789D",
       "assetName": "Default__LMG_Oblivion2_PrimaryAsset_C"
@@ -13674,6 +14074,11 @@
       "name": "Vandal Paracorazones",
       "id": "08CDB3D5-4742-F8D4-9614-35B9F231B044",
       "assetName": "Default__AK_Fusionwave_PrimaryAsset_C"
+    },
+    {
+      "name": "Vandal Superserie",
+      "id": "C9C999AE-4BC4-DF1C-328D-AD93C0D81368",
+      "assetName": "Default__AK_GettingSweaty_PrimaryAsset_C"
     },
     {
       "name": "Vandal Venganza de Dolmir",
@@ -14596,6 +15001,11 @@
       "assetName": "Default__Carbine_ModelMaker_PrimaryAsset_C"
     },
     {
+      "name": "Phantom Montaje",
+      "id": "AF9B3AF7-4AE6-2E07-3819-6DA4BC9D50B9",
+      "assetName": "Default__Carbine_Montage_PrimaryAsset_C"
+    },
+    {
       "name": "Phantom Galería",
       "id": "41892314-4A99-0048-1838-E38CD680EA26",
       "assetName": "Default__AssaultRifle_ACR_Murals_PrimaryAsset_C"
@@ -14754,6 +15164,11 @@
       "name": "Phantom Convergencia",
       "id": "D1B142CE-4A6A-CDCD-7F64-EB970CACFC16",
       "assetName": "Default__Carbine_YinYang_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi",
+      "id": "C1B96274-4346-2EA4-65F4-EC957D217922",
+      "assetName": "Default__Carbine_Yokai_PrimaryAsset_C"
     },
     {
       "name": "Judge Barreno Espacial",
@@ -15216,6 +15631,11 @@
       "assetName": "Default__PumpShotgun_StreetArt_PrimaryAsset_C"
     },
     {
+      "name": "Bucky Tempestario",
+      "id": "BC0478C8-4B7A-B6F6-EB1E-95BAB0485435",
+      "assetName": "Default__PumpShotgun_TheStorm_PrimaryAsset_C"
+    },
+    {
       "name": "Bucky Tierra de Nadie",
       "id": "949E3298-4875-C495-9978-EC87F3A85118",
       "assetName": "Default__PumpShotgun_Wasteland2_PrimaryAsset_C"
@@ -15369,6 +15789,11 @@
       "name": "Frenzy Artesanías de Combate",
       "id": "A024E3FE-4B05-310F-D11C-0B873744F356",
       "assetName": "Default__AutoPistol_ModelMaker_PrimaryAsset_C"
+    },
+    {
+      "name": "Frenzy Montaje",
+      "id": "66823DEB-48B3-DC1B-81A1-69B59B9E4B0F",
+      "assetName": "Default__AutoPistol_Montage_PrimaryAsset_C"
     },
     {
       "name": "Frenzy Lunera",
@@ -15589,6 +16014,11 @@
       "name": "Classic Interlumen",
       "id": "89793303-4735-A4E0-A49D-608C69C4785E",
       "assetName": "Default__BasePistol_Galaxis_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic Superserie",
+      "id": "960FA9AE-4F42-9601-C722-A797A90EC122",
+      "assetName": "Default__BasePistol_GettingSweaty_PrimaryAsset_C"
     },
     {
       "name": "Classic Resplandor",
@@ -16216,9 +16646,234 @@
       "assetName": "Default__BasePistol_VCTCaps25_ZETA_PrimaryAsset_C"
     },
     {
+      "name": "Classic VCT26 x 100T",
+      "id": "5C153C29-4AF1-E37C-F914-30984BCC1A00",
+      "assetName": "Default__BasePistol_VCTCaps26_100T_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x AG",
+      "id": "E4D5454C-43D1-FDD4-3DB0-CFB31CFB120C",
+      "assetName": "Default__BasePistol_VCTCaps26_AG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BBL",
+      "id": "855185CF-49AD-D48B-C67C-BCAD08E63229",
+      "assetName": "Default__BasePistol_VCTCaps26_BBL_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BLG",
+      "id": "3AB7D3F5-402D-B2CD-2289-DF918F3CFC08",
+      "assetName": "Default__BasePistol_VCTCaps26_BLG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x C9",
+      "id": "607DF022-4B11-D315-8E48-7EA00E9A7334",
+      "assetName": "Default__BasePistol_VCTCaps26_C9_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DFM",
+      "id": "9F2D4FB8-4739-16C1-D270-43B0CD0A1202",
+      "assetName": "Default__BasePistol_VCTCaps26_DFM_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRG",
+      "id": "34F12708-420C-FC77-7376-C1B7A4BA7BDD",
+      "assetName": "Default__BasePistol_VCTCaps26_DRG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRX",
+      "id": "969E5B1F-45E5-9B24-75BA-AB9E8D24A7A9",
+      "assetName": "Default__BasePistol_VCTCaps26_DRX_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EDG",
+      "id": "10A69185-42AE-DDD3-24CF-DBA31BD7667F",
+      "assetName": "Default__BasePistol_VCTCaps26_EDG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EG",
+      "id": "E8879B69-4B10-A67C-E7F6-5DA69971F426",
+      "assetName": "Default__BasePistol_VCTCaps26_EG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FNC",
+      "id": "8A7FD35E-423B-A9C7-048B-50A7AD930125",
+      "assetName": "Default__BasePistol_VCTCaps26_FNC_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FPX",
+      "id": "3CB07937-44D1-F14F-10E9-5FB5FAB0EDDC",
+      "assetName": "Default__BasePistol_VCTCaps26_FPX_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUR",
+      "id": "7338B17B-48D1-EE60-56D0-A39B653893E9",
+      "assetName": "Default__BasePistol_VCTCaps26_FUR_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUT",
+      "id": "9065201C-4720-6AF0-C26C-23861542B724",
+      "assetName": "Default__BasePistol_VCTCaps26_FUT_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x G2",
+      "id": "6F732081-4F00-664F-87E8-D6A32D494BAE",
+      "assetName": "Default__BasePistol_VCTCaps26_G2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GEN",
+      "id": "AB529E85-4A66-3591-40B6-CAB280236416",
+      "assetName": "Default__BasePistol_VCTCaps26_GEN_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GE",
+      "id": "5814474D-4D92-D1F5-04CE-2F8D23AE2466",
+      "assetName": "Default__BasePistol_VCTCaps26_GES_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GX",
+      "id": "0F3309AD-4EDC-4C16-20C1-06BA255E49CE",
+      "assetName": "Default__BasePistol_VCTCaps26_GX_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x JDG",
+      "id": "F303A777-48C3-8B49-81A0-AD867D8F40C6",
+      "assetName": "Default__BasePistol_VCTCaps26_JDG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KC",
+      "id": "71DA48ED-43ED-C74B-6580-EC9435E72492",
+      "assetName": "Default__BasePistol_VCTCaps26_KC_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KRÜ",
+      "id": "1B263B90-423F-EAB6-BB0E-A491D296D002",
+      "assetName": "Default__BasePistol_VCTCaps26_KRU_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LEV",
+      "id": "E2C5CCB5-4EBA-CDC5-23E4-329F037023C9",
+      "assetName": "Default__BasePistol_VCTCaps26_LEV_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LOUD",
+      "id": "33926AE0-44B9-EFBC-8E08-09822976F3A2",
+      "assetName": "Default__BasePistol_VCTCaps26_LOUD_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x M8",
+      "id": "8D023AC3-442E-CAD9-DE85-3EB4965D074F",
+      "assetName": "Default__BasePistol_VCTCaps26_M8_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x MIBR",
+      "id": "2DDC6505-45AD-640C-69E1-608AF936F7B3",
+      "assetName": "Default__BasePistol_VCTCaps26_MIBR_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NAVI",
+      "id": "99A20E1B-44B7-3793-C2F3-B3A9346F40E6",
+      "assetName": "Default__BasePistol_VCTCaps26_NAVI_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NOVA",
+      "id": "BDCBC076-4DD1-7685-DEE3-4D990B536E08",
+      "assetName": "Default__BasePistol_VCTCaps26_NOVA_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NRG",
+      "id": "E5AF583A-42D4-19BF-D836-21BE8BA58E4B",
+      "assetName": "Default__BasePistol_VCTCaps26_NRG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NS",
+      "id": "3CDD7A3F-447D-A8D0-B4B1-1F8B9471AF1F",
+      "assetName": "Default__BasePistol_VCTCaps26_NS_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x PRX",
+      "id": "CB2D0716-4059-03A7-6CDD-4AA160EF9F05",
+      "assetName": "Default__BasePistol_VCTCaps26_PRX_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x RRQ",
+      "id": "9F887A2C-4275-385A-CEE7-95AB01E76E5A",
+      "assetName": "Default__BasePistol_VCTCaps26_RRQ_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x SEN",
+      "id": "42BE8FC9-4844-0068-4A0E-6FB4FAB908D1",
+      "assetName": "Default__BasePistol_VCTCaps26_SEN_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x T1",
+      "id": "31AD3E2E-4034-39BB-8836-67BE75B8E7A0",
+      "assetName": "Default__BasePistol_VCTCaps26_T1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TE",
+      "id": "419654B4-4058-433A-B9B9-23AF6A614779",
+      "assetName": "Default__BasePistol_VCTCaps26_TE_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TEC",
+      "id": "B7922C34-4B43-A48E-E91A-389FF8AE79F0",
+      "assetName": "Default__BasePistol_VCTCaps26_TEC_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TH",
+      "id": "C775735D-4BD9-52C5-7F68-9898787B52A5",
+      "assetName": "Default__BasePistol_VCTCaps26_TH_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TL",
+      "id": "522776E7-44EA-9D97-832F-5A8DFE1B28F6",
+      "assetName": "Default__BasePistol_VCTCaps26_TL_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TS",
+      "id": "285DCD5E-49C5-DA61-F4C2-72B7877AD85F",
+      "assetName": "Default__BasePistol_VCTCaps26_TS_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TYL",
+      "id": "40EC4FC4-45DF-8E57-21A2-DA82217F52A8",
+      "assetName": "Default__BasePistol_VCTCaps26_TYL_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x VIT",
+      "id": "D2FBF519-43DD-A410-3C6F-AAA26DBA9852",
+      "assetName": "Default__BasePistol_VCTCaps26_VIT_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x WOL",
+      "id": "E187724B-40FB-2EAA-BD03-16B3FAA14D9E",
+      "assetName": "Default__BasePistol_VCTCaps26_WOL_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x XLG",
+      "id": "D014E645-4349-CBF5-5A14-938073BB8754",
+      "assetName": "Default__BasePistol_VCTCaps26_XLG_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x ZETA",
+      "id": "FCD3527F-40BD-C834-D68B-FDB5ADFCE2D1",
+      "assetName": "Default__BasePistol_VCTCaps26_ZETA_PrimaryAsset_C"
+    },
+    {
       "name": "Classic Fauces de la Tempestad",
       "id": "6E93F64B-41D5-2B86-85AA-54986AA85DEF",
       "assetName": "Default__BasePistol_Wolfeyes_PrimaryAsset_C"
+    },
+    {
+      "name": "Bandit Estándar",
+      "id": "B576B9F1-407D-310A-6009-6287FB6829BC",
+      "assetName": "Default__Compact_Standard_PrimaryAsset_C"
+    },
+    {
+      "name": "Diseño favorito aleatorio",
+      "id": "1C9E4C40-4CB7-CBC8-1368-8F9FEAA08F65",
+      "assetName": "Default__Compact_Random_PrimaryAsset_C"
     },
     {
       "name": "Ghost Alada",
@@ -16541,6 +17196,11 @@
       "assetName": "Default__LugerPistol_Wraith_PrimaryAsset_C"
     },
     {
+      "name": "Ghost Ayakashi",
+      "id": "A9D11586-488A-C93E-C3CC-1CA5D9B6FAA9",
+      "assetName": "Default__Luger_Yokai_PrimaryAsset_C"
+    },
+    {
       "name": "Sheriff Nómada",
       "id": "34F735C0-4FCD-B4FD-FB34-FBAB97B42A41",
       "assetName": "Default__Revolver_A21_PrimaryAsset_C"
@@ -16814,6 +17474,11 @@
       "name": "Sheriff Tejenubes",
       "id": "2E054476-4B48-CA0A-9C10-A38EAB54ECCC",
       "assetName": "Default__Revolver_Tattoo_PrimaryAsset_C"
+    },
+    {
+      "name": "Sheriff Tempestario",
+      "id": "6CA0D072-4FB0-FA69-0C76-6CBC2D9EEAB3",
+      "assetName": "Default__Revolver_TheStorm_PrimaryAsset_C"
     },
     {
       "name": "Sheriff Arenisca",
@@ -17306,6 +17971,11 @@
       "assetName": "Default__BoltSniper_StreetWear_PrimaryAsset_C"
     },
     {
+      "name": "Operator Tempestario",
+      "id": "C319C230-4D98-8D99-05BC-7D8C02146570",
+      "assetName": "Default__BoltSniper_TheStorm_PrimaryAsset_C"
+    },
+    {
       "name": "Operator Tigris",
       "id": "B53A990D-45C2-6212-A98F-B0AA5D6E6C23",
       "assetName": "Default__BoltSniper_Tiger_PrimaryAsset_C"
@@ -17606,6 +18276,11 @@
       "assetName": "Default__DMR_Tarot_PrimaryAsset_C"
     },
     {
+      "name": "Guardian Tempestario",
+      "id": "66E8E5E6-43CE-C8D5-470B-A5B0D69ED47D",
+      "assetName": "Default__DMR_TheStorm_PrimaryAsset_C"
+    },
+    {
       "name": "Guardian Corcel Maravilla",
       "id": "6779D117-4A4B-D534-1F35-10A52F570694",
       "assetName": "Default__DMR_Unicorn_PrimaryAsset_C"
@@ -17789,6 +18464,11 @@
       "name": "Marshal Interlumen",
       "id": "9168111E-4AAE-5055-D97E-78BF29A470B1",
       "assetName": "Default__LeverSniper_Galaxis_PrimaryAsset_C"
+    },
+    {
+      "name": "Marshal Superserie",
+      "id": "93CD0836-4DA1-E8C9-B1DB-0EA9D0EED269",
+      "assetName": "Default__LeverSniper_GettingSweaty_PrimaryAsset_C"
     },
     {
       "name": "Marshal Ruina",
@@ -18159,6 +18839,11 @@
       "name": "Spectre Mínima",
       "id": "2D28E21F-4986-650D-70BD-A2927A0E337B",
       "assetName": "Default__MP5_Minima_PrimaryAsset_C"
+    },
+    {
+      "name": "Spectre Montaje",
+      "id": "F31E4763-458A-961C-F958-AD8EA4973021",
+      "assetName": "Default__MP5_Montage_PrimaryAsset_C"
     },
     {
       "name": "Spectre Kuronami",
@@ -19031,6 +19716,11 @@
       "assetName": "Default__Melee_MonkeyKing_PrimaryAsset_C"
     },
     {
+      "name": "Hacha Montaje",
+      "id": "0A530466-4D70-B221-C056-659A535A128B",
+      "assetName": "Default__Melee_Montage_PrimaryAsset_C"
+    },
+    {
       "name": "Cuchilla Overdrive",
       "id": "6BEA8564-48A8-5011-DBF7-A2856713DE08",
       "assetName": "Default__Melee_Motorbike_PrimaryAsset_C"
@@ -19299,6 +19989,11 @@
       "name": "Hacha Fauces de la Tempestad",
       "id": "EE01D99D-4392-A37E-2096-7BBE2681BCDA",
       "assetName": "Default__Melee_Wolfeyes_PrimaryAsset_C"
+    },
+    {
+      "name": "Kogitsune",
+      "id": "987E847D-47D2-6AB3-2369-0497B6C39A7E",
+      "assetName": "Default__Melee_Yokai_PrimaryAsset_C"
     }
   ],
   "skinLevels": [
@@ -19841,6 +20536,11 @@
       "name": "Ares Héroe Valeroso",
       "id": "6AB209EB-4596-C1F5-0262-22AC9F2BEAA0",
       "assetName": "Default__LMG_MonkeyKing_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Ares Montaje",
+      "id": "75108DAB-4DB7-E906-30B9-D484A66E2A0B",
+      "assetName": "Default__LMG_Montage_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Ares Ion nivel 4",
@@ -20401,6 +21101,11 @@
       "name": "Vandal Paracorazones",
       "id": "D33F3DFF-4631-D550-4745-458BA2E2900E",
       "assetName": "Default__AK_Fusionwave_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Vandal Superserie",
+      "id": "B3BB4A34-42A8-04E8-B1DB-EF903D90DB71",
+      "assetName": "Default__AK_GettingSweaty_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Vandal Venganza de Dolmir nivel 4",
@@ -21173,7 +21878,7 @@
       "assetName": "Default__Burst_Counterculture_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Bulldog Nocturnum nivel 4\n\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
+      "name": "Bulldog Nocturnum nivel 4\r\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
       "id": "23049DAA-4223-7ABE-3352-CE82DAE5E9C5",
       "assetName": "Default__Burst_Coven_Lv4_PrimaryAsset_C"
     },
@@ -21753,7 +22458,7 @@
       "assetName": "Default__Carbine_Cosmos_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Phantom Nocturnum nivel 4\n\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
+      "name": "Phantom Nocturnum nivel 4\r\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
       "id": "FCC50F56-4BE4-A824-FAA2-7E91A5C5F5CD",
       "assetName": "Default__Carbine_Coven_Lv4_PrimaryAsset_C"
     },
@@ -22183,6 +22888,11 @@
       "assetName": "Default__Carbine_ModelMaker_Lv1_PrimaryAsset_C"
     },
     {
+      "name": "Phantom Montaje",
+      "id": "05CB53C9-4890-AA01-C718-B9AADAB2DA69",
+      "assetName": "Default__Carbine_Montage_Lv1_PrimaryAsset_C"
+    },
+    {
       "name": "Phantom Galería",
       "id": "F38B2545-4498-48B3-150E-1589E25E7AA7",
       "assetName": "Default__AssaultRifle_ACR_Murals_Lv1_PrimaryAsset_C"
@@ -22496,6 +23206,26 @@
       "name": "Phantom Convergencia",
       "id": "AABBE94A-4506-321D-131D-EBB8D3B849C0",
       "assetName": "Default__Carbine_YinYang_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi nivel 4",
+      "id": "74C53D7C-47E5-17F0-D0B5-A2989329ECD4",
+      "assetName": "Default__Carbine_Yokai_Lv4_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi nivel 3",
+      "id": "61424F55-4FB2-CC41-F254-E7AEE5921D7F",
+      "assetName": "Default__Carbine_Yokai_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi nivel 2",
+      "id": "73C3A1E0-4BC0-91D0-B249-90AA2B63D570",
+      "assetName": "Default__Carbine_Yokai_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Phantom Ayakashi",
+      "id": "27ACFA4D-4C6E-5F16-496E-F7BAAD3E00E0",
+      "assetName": "Default__Carbine_Yokai_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Judge Barreno Espacial",
@@ -23223,6 +23953,11 @@
       "assetName": "Default__PumpShotgun_StreetArt_Lv1_PrimaryAsset_C"
     },
     {
+      "name": "Bucky Tempestario",
+      "id": "6118832A-428C-E1DD-09CC-8FAA94699C4C",
+      "assetName": "Default__PumpShotgun_TheStorm_Lv1_PrimaryAsset_C"
+    },
+    {
       "name": "Bucky Tierra de Nadie",
       "id": "ACD4B2CF-409D-841B-F5F3-E4969C720323",
       "assetName": "Default__PumpShotgun_Wasteland2_Lv1_PrimaryAsset_C"
@@ -23481,6 +24216,11 @@
       "name": "Frenzy Artesanías de Combate",
       "id": "04D5024E-4DCE-A677-9724-4A965290BB93",
       "assetName": "Default__AutoPistol_ModelMaker_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Frenzy Montaje",
+      "id": "19850F93-4728-F4EF-1BED-ED88E933D60D",
+      "assetName": "Default__AutoPistol_Montage_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Frenzy Lunera",
@@ -23876,6 +24616,11 @@
       "name": "Classic Interlumen",
       "id": "1C9ACF23-4D6F-7C07-AA72-43A946E0DF50",
       "assetName": "Default__BasePistol_Galaxis_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic Superserie",
+      "id": "13E23D4C-4641-767D-57E3-46AA0F68AC6D",
+      "assetName": "Default__BasePistol_GettingSweaty_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Classic Resplandor",
@@ -25473,9 +26218,664 @@
       "assetName": "Default__BasePistol_VCTCaps25_ZETA_Lv1_PrimaryAsset_C"
     },
     {
+      "name": "Classic VCT26 x 100T nivel 3",
+      "id": "6D74DD2D-43B4-193A-9C3E-23A11999A330",
+      "assetName": "Default__BasePistol_VCTCaps26_100T_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x 100T nivel 2",
+      "id": "4CE9465F-4C24-7041-1F29-D9B5A1B2E799",
+      "assetName": "Default__BasePistol_VCTCaps26_100T_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x 100T",
+      "id": "2DA8FDC9-46AD-0963-87D2-47BE81439844",
+      "assetName": "Default__BasePistol_VCTCaps26_100T_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x AG nivel 3",
+      "id": "E32A0DB7-47DD-C627-5E73-C4B0871748C3",
+      "assetName": "Default__BasePistol_VCTCaps26_AG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x AG nivel 2",
+      "id": "1C196088-4633-6772-0AA1-EB971CC0C2F6",
+      "assetName": "Default__BasePistol_VCTCaps26_AG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x AG",
+      "id": "9C1C877F-449B-1ABE-82EF-6D8B0854118E",
+      "assetName": "Default__BasePistol_VCTCaps26_AG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BBL nivel 3",
+      "id": "883752A2-4060-4FD5-523E-AC8E9B448BBB",
+      "assetName": "Default__BasePistol_VCTCaps26_BBL_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BBL nivel 2",
+      "id": "D0FA9A94-408B-7205-9225-E2B74CF68613",
+      "assetName": "Default__BasePistol_VCTCaps26_BBL_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BBL",
+      "id": "57BED776-404E-DC91-8567-268066CD3365",
+      "assetName": "Default__BasePistol_VCTCaps26_BBL_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BLG nivel 3",
+      "id": "A53DD112-401B-A906-69BF-72AB9FD30D5A",
+      "assetName": "Default__BasePistol_VCTCaps26_BLG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BLG nivel 2",
+      "id": "1D28518B-486E-EC06-3E17-7FAB7637F936",
+      "assetName": "Default__BasePistol_VCTCaps26_BLG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x BLG",
+      "id": "A16F5F1F-4105-BC23-60C2-6691C4991E88",
+      "assetName": "Default__BasePistol_VCTCaps26_BLG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x C9 nivel 3",
+      "id": "9948DE70-4C57-2193-E00F-E68553B8BB33",
+      "assetName": "Default__BasePistol_VCTCaps26_C9_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x C9 nivel 2",
+      "id": "D3C94C9D-466E-A470-4084-3CADB79CB447",
+      "assetName": "Default__BasePistol_VCTCaps26_C9_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x C9",
+      "id": "9952ABF3-462A-F968-1D39-09B27B009385",
+      "assetName": "Default__BasePistol_VCTCaps26_C9_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DFM nivel 3",
+      "id": "F9BFD774-4B42-E5AA-93E0-E490F3DA3C2C",
+      "assetName": "Default__BasePistol_VCTCaps26_DFM_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DFM nivel 2",
+      "id": "8697E2A2-47EB-5B85-0AF9-A6BEF351D356",
+      "assetName": "Default__BasePistol_VCTCaps26_DFM_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DFM",
+      "id": "542E3CD0-484A-074A-0119-FF92DDED880D",
+      "assetName": "Default__BasePistol_VCTCaps26_DFM_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRG nivel 3",
+      "id": "D740C563-4728-B7A6-04FE-3BB5DE5ADF02",
+      "assetName": "Default__BasePistol_VCTCaps26_DRG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRG nivel 2",
+      "id": "6ED4D325-4F77-9205-4C84-1DB617F0CE46",
+      "assetName": "Default__BasePistol_VCTCaps26_DRG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRG",
+      "id": "EEEBAE88-4E1B-BE94-10C0-CB9AA89B252A",
+      "assetName": "Default__BasePistol_VCTCaps26_DRG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRX nivel 3",
+      "id": "E86DE174-46A7-BE88-01CF-C7BA252C8D30",
+      "assetName": "Default__BasePistol_VCTCaps26_DRX_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRX nivel 2",
+      "id": "2B1D1622-4A2D-41D8-6292-D5A4485FE29D",
+      "assetName": "Default__BasePistol_VCTCaps26_DRX_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x DRX",
+      "id": "DD851FA4-49BA-19AF-A309-BEBF6D8CA1B3",
+      "assetName": "Default__BasePistol_VCTCaps26_DRX_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EDG nivel 3",
+      "id": "73991563-4B2E-A29D-6337-0FB23CCFB338",
+      "assetName": "Default__BasePistol_VCTCaps26_EDG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EDG nivel 2",
+      "id": "A185E486-4271-FFD2-55D9-22AC2F357677",
+      "assetName": "Default__BasePistol_VCTCaps26_EDG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EDG",
+      "id": "C686BAC0-4ACB-548A-DC75-F2A5D23886F2",
+      "assetName": "Default__BasePistol_VCTCaps26_EDG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EG nivel 3",
+      "id": "FAF3E769-4FB1-D08A-4FDF-B19A7CC15A00",
+      "assetName": "Default__BasePistol_VCTCaps26_EG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EG nivel 2",
+      "id": "3DD617B6-4634-35A9-8113-049B6888B2DB",
+      "assetName": "Default__BasePistol_VCTCaps26_EG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x EG",
+      "id": "0F017C99-43C5-91A3-2889-F29C975080BD",
+      "assetName": "Default__BasePistol_VCTCaps26_EG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FNC nivel 3",
+      "id": "AA246569-4EB8-0B43-ECF7-97BE45407B7E",
+      "assetName": "Default__BasePistol_VCTCaps26_FNC_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FNC nivel 2",
+      "id": "73BA4424-4E5B-7D70-D8F5-8793AD06DD34",
+      "assetName": "Default__BasePistol_VCTCaps26_FNC_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FNC",
+      "id": "9424B82F-43EE-A8A0-E513-8CBB8BC4B76D",
+      "assetName": "Default__BasePistol_VCTCaps26_FNC_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FPX nivel 3",
+      "id": "B0CFD624-4741-11FA-2091-B0BFBB694FFC",
+      "assetName": "Default__BasePistol_VCTCaps26_FPX_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FPX nivel 2",
+      "id": "60D044FC-4F34-099D-2E02-B68F24BA9E8E",
+      "assetName": "Default__BasePistol_VCTCaps26_FPX_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FPX",
+      "id": "63CBA031-48C2-4272-9327-1A87C7E77B9B",
+      "assetName": "Default__BasePistol_VCTCaps26_FPX_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUR nivel 3",
+      "id": "75996860-4D03-DC46-04B8-1EB2E090066F",
+      "assetName": "Default__BasePistol_VCTCaps26_FUR_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUR nivel 2",
+      "id": "09DAFAD0-4309-85B7-995E-0EA7DEC61267",
+      "assetName": "Default__BasePistol_VCTCaps26_FUR_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUR",
+      "id": "65A56EC2-4FBD-A1A5-68AF-42B1424B30F7",
+      "assetName": "Default__BasePistol_VCTCaps26_FUR_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUT nivel 3",
+      "id": "F9BA9911-4CFC-92AA-566F-86A038CBE044",
+      "assetName": "Default__BasePistol_VCTCaps26_FUT_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUT nivel 2",
+      "id": "1A1E052B-4DDD-4A35-30FE-1D81D091E2CF",
+      "assetName": "Default__BasePistol_VCTCaps26_FUT_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x FUT",
+      "id": "D1D61D31-49C8-B509-BC5B-8E911C30D2A8",
+      "assetName": "Default__BasePistol_VCTCaps26_FUT_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x G2 nivel 3",
+      "id": "687CD257-447C-313C-4D27-06A21FB59133",
+      "assetName": "Default__BasePistol_VCTCaps26_G2_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x G2 nivel 2",
+      "id": "8FCF2404-4477-5F78-7180-2BB436AD7AC3",
+      "assetName": "Default__BasePistol_VCTCaps26_G2_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x G2",
+      "id": "1CA765B6-48A0-6F22-00C0-65B461AFB657",
+      "assetName": "Default__BasePistol_VCTCaps26_G2_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GEN nivel 3",
+      "id": "47776373-40D0-DC34-C4C5-1681D51BAE24",
+      "assetName": "Default__BasePistol_VCTCaps26_GEN_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GEN nivel 2",
+      "id": "70C203BE-4FE3-9A89-DD04-78AA37D7F659",
+      "assetName": "Default__BasePistol_VCTCaps26_GEN_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GEN",
+      "id": "BEC56130-4E36-2153-6D0E-5984FB9D5756",
+      "assetName": "Default__BasePistol_VCTCaps26_GEN_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GE nivel 3",
+      "id": "69DA900D-4515-A309-C970-D992818238B8",
+      "assetName": "Default__BasePistol_VCTCaps26_GES_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GE nivel 2",
+      "id": "3029D12A-4D2D-87A3-722F-69A3E8D8A632",
+      "assetName": "Default__BasePistol_VCTCaps26_GES_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GE",
+      "id": "09D2F802-445B-9F84-4A41-6586D7276C38",
+      "assetName": "Default__BasePistol_VCTCaps26_GES_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GX nivel 3",
+      "id": "3212596D-4865-6A7A-3F74-A6A3FDCB242A",
+      "assetName": "Default__BasePistol_VCTCaps26_GX_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GX nivel 2",
+      "id": "15F5C2F9-466B-D614-DC70-5686DF95250C",
+      "assetName": "Default__BasePistol_VCTCaps26_GX_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x GX",
+      "id": "1F62F544-4955-0B97-048E-A186CECE9E15",
+      "assetName": "Default__BasePistol_VCTCaps26_GX_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x JDG nivel 3",
+      "id": "A4DC3AF5-4A06-8BAE-DDB3-9099473F2F88",
+      "assetName": "Default__BasePistol_VCTCaps26_JDG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x JDG nivel 2",
+      "id": "5F29FB9E-4556-EEED-00AD-11B647F00E77",
+      "assetName": "Default__BasePistol_VCTCaps26_JDG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x JDG",
+      "id": "C503FFDC-4071-B1A1-323A-A2AD9413C5CC",
+      "assetName": "Default__BasePistol_VCTCaps26_JDG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KC nivel 3",
+      "id": "66186DC9-482C-620F-9D44-3FABC6385D34",
+      "assetName": "Default__BasePistol_VCTCaps26_KC_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KC nivel 2",
+      "id": "0F26B519-461D-52F7-6AD1-F680AF3EFDFA",
+      "assetName": "Default__BasePistol_VCTCaps26_KC_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KC",
+      "id": "1B855C56-4460-799E-78A5-70B01CDEE5DB",
+      "assetName": "Default__BasePistol_VCTCaps26_KC_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KRÜ nivel 3",
+      "id": "469261CA-4431-A8E6-F5D5-1A95A75C929F",
+      "assetName": "Default__BasePistol_VCTCaps26_KRU_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KRÜ nivel 2",
+      "id": "C63B58A4-42AC-85AD-9536-87A3A6943526",
+      "assetName": "Default__BasePistol_VCTCaps26_KRU_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x KRÜ",
+      "id": "B4015F10-41D5-3268-455A-B6A00A1F01ED",
+      "assetName": "Default__BasePistol_VCTCaps26_KRU_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LEV nivel 3",
+      "id": "D2C46F90-469E-7820-1EBC-C08EC1CD0B80",
+      "assetName": "Default__BasePistol_VCTCaps26_LEV_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LEV nivel 2",
+      "id": "DDA4A15F-47DB-3116-6A6E-B1804C366DD4",
+      "assetName": "Default__BasePistol_VCTCaps26_LEV_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LEV",
+      "id": "B76F81FB-419F-C848-9446-C682781C2A94",
+      "assetName": "Default__BasePistol_VCTCaps26_LEV_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LOUD nivel 3",
+      "id": "C9A1AAB7-4E5C-03B0-035A-9F84D26C02E9",
+      "assetName": "Default__BasePistol_VCTCaps26_LOUD_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LOUD nivel 2",
+      "id": "4EF6F301-4E42-7F9D-97CE-35820B4DA19F",
+      "assetName": "Default__BasePistol_VCTCaps26_LOUD_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x LOUD",
+      "id": "AF1075C7-410A-3484-C7E8-A4AEA8411B25",
+      "assetName": "Default__BasePistol_VCTCaps26_LOUD_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x M8 nivel 3",
+      "id": "A3356D6E-453E-300B-49BD-89A740EF7536",
+      "assetName": "Default__BasePistol_VCTCaps26_M8_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x M8 nivel 2",
+      "id": "867C1F6E-43A5-25FF-3AED-409FF09670AC",
+      "assetName": "Default__BasePistol_VCTCaps26_M8_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x M8",
+      "id": "A0F2195E-44C2-7E5C-DF57-EEBBBF3EC20E",
+      "assetName": "Default__BasePistol_VCTCaps26_M8_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x MIBR nivel 3",
+      "id": "EB409768-41BA-43A2-5612-068A34B84AC2",
+      "assetName": "Default__BasePistol_VCTCaps26_MIBR_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x MIBR nivel 2",
+      "id": "9DB7BCD7-4674-DD46-C84E-7FB4E7928450",
+      "assetName": "Default__BasePistol_VCTCaps26_MIBR_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x MIBR",
+      "id": "157A0DA4-4B09-D9D2-A581-99B9CC710F24",
+      "assetName": "Default__BasePistol_VCTCaps26_MIBR_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NAVI nivel 3",
+      "id": "2A77FE07-473D-8D41-29E9-7EA606AA2455",
+      "assetName": "Default__BasePistol_VCTCaps26_NAVI_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NAVI nivel 2",
+      "id": "F21A7829-45D2-E3D2-3794-499CF21B8EF2",
+      "assetName": "Default__BasePistol_VCTCaps26_NAVI_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NAVI",
+      "id": "21A40014-41C1-6F97-3860-29A8950D9F48",
+      "assetName": "Default__BasePistol_VCTCaps26_NAVI_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NOVA nivel 3",
+      "id": "B25E5F0E-4749-C3D5-8FDD-34B38A36A0B0",
+      "assetName": "Default__BasePistol_VCTCaps26_NOVA_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NOVA nivel 2",
+      "id": "CCF5CD4D-4D58-356E-48B7-7BADAF815861",
+      "assetName": "Default__BasePistol_VCTCaps26_NOVA_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NOVA",
+      "id": "BBDEEE9E-4EB2-266D-BCAA-9A9D9B496E8F",
+      "assetName": "Default__BasePistol_VCTCaps26_NOVA_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NRG nivel 3",
+      "id": "12DEFC98-42A5-543D-CCAD-BFBD6B25E0C5",
+      "assetName": "Default__BasePistol_VCTCaps26_NRG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NRG nivel 2",
+      "id": "A3AA6D6C-48F2-0EE2-F916-C391D35A7BB6",
+      "assetName": "Default__BasePistol_VCTCaps26_NRG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NRG",
+      "id": "9EAD5B51-4EB4-EDB5-08E0-EFA9CE391BE7",
+      "assetName": "Default__BasePistol_VCTCaps26_NRG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NS nivel 3",
+      "id": "8F513806-4B68-179E-99B5-E4BB02A9C3FA",
+      "assetName": "Default__BasePistol_VCTCaps26_NS_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NS nivel 2",
+      "id": "D55D6525-45A6-C118-13AC-5CA6FB1993B7",
+      "assetName": "Default__BasePistol_VCTCaps26_NS_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x NS",
+      "id": "4B30F1AC-46D9-17E3-603D-C397632A6282",
+      "assetName": "Default__BasePistol_VCTCaps26_NS_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x PRX nivel 3",
+      "id": "FE2DB895-417C-DC1F-C891-D8BED93EDDA9",
+      "assetName": "Default__BasePistol_VCTCaps26_PRX_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x PRX nivel 2",
+      "id": "A2B2F155-43B6-B635-A1C3-1F9FED5142B5",
+      "assetName": "Default__BasePistol_VCTCaps26_PRX_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x PRX",
+      "id": "3C7AC61A-4EE5-3078-E745-5FBADB10D199",
+      "assetName": "Default__BasePistol_VCTCaps26_PRX_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x RRQ nivel 3",
+      "id": "A9E7BB2D-45D2-C3BC-2057-718A7DEF3D28",
+      "assetName": "Default__BasePistol_VCTCaps26_RRQ_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x RRQ nivel 2",
+      "id": "10DEB907-4B8E-E9F2-BD77-7087C0AE5A9D",
+      "assetName": "Default__BasePistol_VCTCaps26_RRQ_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x RRQ",
+      "id": "37CE9DA7-4634-93DF-4D87-4FAEB0D0D75F",
+      "assetName": "Default__BasePistol_VCTCaps26_RRQ_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x SEN nivel 3",
+      "id": "F1F427F2-4980-2344-B522-4FADA804B004",
+      "assetName": "Default__BasePistol_VCTCaps26_SEN_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x SEN nivel 2",
+      "id": "662AB4B5-4AD9-8BFC-DEB3-DC84D9035833",
+      "assetName": "Default__BasePistol_VCTCaps26_SEN_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x SEN",
+      "id": "D1E82C9F-4F17-AB19-680A-5890365C2241",
+      "assetName": "Default__BasePistol_VCTCaps26_SEN_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x T1 nivel 3",
+      "id": "EABEA525-4724-CFA8-E12E-908AD655741F",
+      "assetName": "Default__BasePistol_VCTCaps26_T1_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x T1 nivel 2",
+      "id": "E22D84DF-4E14-74D8-1203-91BED9170FAA",
+      "assetName": "Default__BasePistol_VCTCaps26_T1_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x T1",
+      "id": "9FBF8927-4D3B-624C-A21A-A2B7E3390846",
+      "assetName": "Default__BasePistol_VCTCaps26_T1_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TE nivel 3",
+      "id": "2D5E8DAD-4833-D576-74EA-84B9CF892E3B",
+      "assetName": "Default__BasePistol_VCTCaps26_TE_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TE nivel 2",
+      "id": "6AD34845-4616-FA16-DEB3-7FBC0FD33284",
+      "assetName": "Default__BasePistol_VCTCaps26_TE_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TE",
+      "id": "FFB2F49F-499B-1457-ECE3-5BB59F7D6351",
+      "assetName": "Default__BasePistol_VCTCaps26_TE_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TEC nivel 3",
+      "id": "7BA46A1C-4540-8C3F-F484-5CB77627AFC0",
+      "assetName": "Default__BasePistol_VCTCaps26_TEC_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TEC nivel 2",
+      "id": "E9463B2E-4B00-71CB-5756-82B330C7C961",
+      "assetName": "Default__BasePistol_VCTCaps26_TEC_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TEC",
+      "id": "73A0EB41-42DF-1946-C4E7-BAA3E8440993",
+      "assetName": "Default__BasePistol_VCTCaps26_TEC_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TH nivel 3",
+      "id": "3ED9E5A8-4D90-6CCC-B799-03BD25218621",
+      "assetName": "Default__BasePistol_VCTCaps26_TH_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TH nivel 2",
+      "id": "F2DAB774-4539-0D93-8005-8892E6483331",
+      "assetName": "Default__BasePistol_VCTCaps26_TH_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TH",
+      "id": "7B633970-4795-FAC6-0CE6-DAB735655929",
+      "assetName": "Default__BasePistol_VCTCaps26_TH_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TL nivel 3",
+      "id": "301A40C2-46B6-2C3A-687C-AA847546CB9E",
+      "assetName": "Default__BasePistol_VCTCaps26_TL_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TL nivel 2",
+      "id": "A19F204C-4E4B-2FDA-3088-C9B996FBB277",
+      "assetName": "Default__BasePistol_VCTCaps26_TL_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TL",
+      "id": "576D72D5-4C0A-CA5F-C8EA-D0A41EEC761A",
+      "assetName": "Default__BasePistol_VCTCaps26_TL_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TS nivel 3",
+      "id": "3782AAA4-4902-A253-1A66-60B144686480",
+      "assetName": "Default__BasePistol_VCTCaps26_TS_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TS nivel 2",
+      "id": "A221D835-4DEA-F419-8F01-70BF09965F28",
+      "assetName": "Default__BasePistol_VCTCaps26_TS_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TS",
+      "id": "F35528F2-4E66-A6B6-33B1-E1860A4B69AF",
+      "assetName": "Default__BasePistol_VCTCaps26_TS_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TYL nivel 3",
+      "id": "CCA4345F-4360-726B-7848-C4BE23629B06",
+      "assetName": "Default__BasePistol_VCTCaps26_TYL_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TYL nivel 2",
+      "id": "0FE59F21-4AA5-6267-4619-E9A88423A09C",
+      "assetName": "Default__BasePistol_VCTCaps26_TYL_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x TYL",
+      "id": "191788C3-4E44-D7A5-ACE4-90A7BE6DD961",
+      "assetName": "Default__BasePistol_VCTCaps26_TYL_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x VIT nivel 3",
+      "id": "5EC7EE12-44D3-A671-0374-0D99707F0644",
+      "assetName": "Default__BasePistol_VCTCaps26_VIT_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x VIT nivel 2",
+      "id": "51DCC76B-45F7-2A91-7050-DDAAD79285F5",
+      "assetName": "Default__BasePistol_VCTCaps26_VIT_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x VIT",
+      "id": "DA86BBBD-48BA-4578-696B-90AB1BCC83FB",
+      "assetName": "Default__BasePistol_VCTCaps26_VIT_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x WOL nivel 3",
+      "id": "BA118760-49FA-0E63-4408-0592DD97AB6D",
+      "assetName": "Default__BasePistol_VCTCaps26_WOL_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x WOL nivel 2",
+      "id": "EBF4D562-4BD0-8987-3DA3-B3B7CC4D053B",
+      "assetName": "Default__BasePistol_VCTCaps26_WOL_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x WOL",
+      "id": "A67F5367-4265-2D8A-197D-ADB6A9049654",
+      "assetName": "Default__BasePistol_VCTCaps26_WOL_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x XLG nivel 3",
+      "id": "48D8737D-49A2-08A8-80D3-808377115B6C",
+      "assetName": "Default__BasePistol_VCTCaps26_XLG_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x XLG nivel 2",
+      "id": "069FD354-4EE3-F7AF-7D54-CCAAFA6DB84C",
+      "assetName": "Default__BasePistol_VCTCaps26_XLG_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x XLG",
+      "id": "8566910A-4256-5EA6-5F07-6D999D185C14",
+      "assetName": "Default__BasePistol_VCTCaps26_XLG_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x ZETA nivel 3",
+      "id": "07E92C4D-470D-4858-9827-8084E3DCF736",
+      "assetName": "Default__BasePistol_VCTCaps26_ZETA_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x ZETA nivel 2",
+      "id": "A66F5B62-417C-22A2-175F-799D84CE7437",
+      "assetName": "Default__BasePistol_VCTCaps26_ZETA_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Classic VCT26 x ZETA",
+      "id": "C1DCD393-4491-14DA-0AEF-F5917C76E213",
+      "assetName": "Default__BasePistol_VCTCaps26_ZETA_Lv1_PrimaryAsset_C"
+    },
+    {
       "name": "Classic Fauces de la Tempestad",
       "id": "62FF69E5-4E23-3D77-B910-0F8980C5E1A5",
       "assetName": "Default__BasePistol_Wolfeyes_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "DISEÑO FAVORITO ALEATORIO",
+      "id": "C998BEEF-4C66-F39C-87AF-C1A86074035D",
+      "assetName": "Default__Compact_Random_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Bandit",
+      "id": "7BF8A186-42F3-0028-C096-4FB539A31BE2",
+      "assetName": "Default__Compact_Standard_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Ghost Alada",
@@ -26006,6 +27406,26 @@
       "name": "Ghost Silencialmas",
       "id": "B85B3760-43BB-507D-323E-1682FA76D96B",
       "assetName": "Default__LugerPistol_Wraith_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Ghost Ayakashi nivel 4",
+      "id": "9E8C3A90-4692-AC61-4FC6-58B7F7778590",
+      "assetName": "Default__Luger_Yokai_Lv4_PrimaryAsset_C"
+    },
+    {
+      "name": "Ghost Ayakashi nivel 3",
+      "id": "360B359D-452B-BF3A-C8E4-0D88EC5477D7",
+      "assetName": "Default__Luger_Yokai_Lv3_PrimaryAsset_C"
+    },
+    {
+      "name": "Ghost Ayakashi nivel 2",
+      "id": "2E8B5EC9-476E-6437-B6C6-338F831BCEF0",
+      "assetName": "Default__Luger_Yokai_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Ghost Ayakashi",
+      "id": "061E62DE-42AE-C843-1AB0-57A2B822BBDD",
+      "assetName": "Default__Luger_Yokai_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Sheriff Nómada",
@@ -26596,6 +28016,11 @@
       "name": "Sheriff Tejenubes",
       "id": "1358520A-4AA3-D232-7BD8-6B91684FFA9B",
       "assetName": "Default__Revolver_Tattoo_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Sheriff Tempestario",
+      "id": "6843F89D-46B3-CC79-2E57-34A586DBE77D",
+      "assetName": "Default__Revolver_TheStorm_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Sheriff Arenisca",
@@ -27493,6 +28918,11 @@
       "assetName": "Default__BoltSniper_StreetWear_Lv1_PrimaryAsset_C"
     },
     {
+      "name": "Operator Tempestario",
+      "id": "61DE9BEC-4DC2-2AAE-1A06-40B8D2D012D5",
+      "assetName": "Default__BoltSniper_TheStorm_Lv1_PrimaryAsset_C"
+    },
+    {
       "name": "Operator Tigris",
       "id": "2ECB0E86-4A14-B33B-8FE1-DB96F2C3AA69",
       "assetName": "Default__BoltSniper_Tiger_Lv1_PrimaryAsset_C"
@@ -28023,6 +29453,11 @@
       "assetName": "Default__DMR_Tarot_Lv1_PrimaryAsset_C"
     },
     {
+      "name": "Guardian Tempestario",
+      "id": "BD8DD03A-4A1C-7A6B-9C23-D1BA62397E7D",
+      "assetName": "Default__DMR_TheStorm_Lv1_PrimaryAsset_C"
+    },
+    {
       "name": "Guardian Corcel Maravilla",
       "id": "5650F9C0-41A2-FC26-EDE7-15BBCAB8FB6B",
       "assetName": "Default__DMR_Unicorn_Lv1_PrimaryAsset_C"
@@ -28283,7 +29718,7 @@
       "assetName": "Default__LeverSniper_Codex_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Marshal Nocturnum nivel 4\n\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
+      "name": "Marshal Nocturnum nivel 4\r\nMata una vez a cada jugador del equipo enemigo para transformar tu remate a su forma definitiva.",
       "id": "7523F54E-464B-4C8C-08D9-30BE0D9CD12D",
       "assetName": "Default__LeverSniper_Coven_Lv4_PrimaryAsset_C"
     },
@@ -28336,6 +29771,11 @@
       "name": "Marshal Interlumen",
       "id": "6A34BB55-4223-3960-A379-F4919A004CB1",
       "assetName": "Default__LeverSniper_Galaxis_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Marshal Superserie",
+      "id": "E02C34CA-464E-A8BE-2C3A-9FAFE976610B",
+      "assetName": "Default__LeverSniper_GettingSweaty_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Marshal Ruina",
@@ -28956,6 +30396,11 @@
       "name": "Spectre Mínima",
       "id": "1FDBE6F8-42CA-DEB2-33DA-CAA2C4200544",
       "assetName": "Default__MP5_Minima_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Spectre Montaje",
+      "id": "B1C70994-4068-5B87-BF14-5CB4FA3B4ED7",
+      "assetName": "Default__MP5_Montage_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Spectre Kuronami nivel 4",
@@ -29878,7 +31323,7 @@
       "assetName": "Default__Melee_Cosmos_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Guadaña Nocturnum nivel 2\n\nInspecciona tu arma melee para transformarla en una nueva arma.",
+      "name": "Guadaña Nocturnum nivel 2\r\nInspecciona tu arma melee para transformarla en una nueva arma.",
       "id": "9A5543C9-4E1F-9623-987E-8DBCC703FA0D",
       "assetName": "Default__Melee_Coven_Lv2_PrimaryAsset_C"
     },
@@ -30243,7 +31688,7 @@
       "assetName": "Default__Melee_Iridescence2_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Espada del Rey Arruinado",
+      "name": "Espada del Rey Arruinado nivel 2",
       "id": "D0B5FBD7-43EF-D2BC-80CA-66B23C7A1D47",
       "assetName": "Default__Melee_King_Lv2_PrimaryAsset_C"
     },
@@ -30406,6 +31851,11 @@
       "name": "Báculo Ruyi",
       "id": "DD587E30-4932-6CD4-3437-A1A043DD6A78",
       "assetName": "Default__Melee_MonkeyKing_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Hacha Montaje",
+      "id": "133D3E84-409E-E2B5-2841-84B1B162EC5E",
+      "assetName": "Default__Melee_Montage_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Cuchilla Overdrive nivel 2",
@@ -30841,6 +32291,16 @@
       "name": "Hacha Fauces de la Tempestad",
       "id": "C3147C45-4B55-11D3-2B88-228A43FA7800",
       "assetName": "Default__Melee_Wolfeyes_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Kogitsune nivel 2",
+      "id": "EDCB1A3A-49CB-81AD-F4D3-B7BF2821842F",
+      "assetName": "Default__Melee_Yokai_Lv2_PrimaryAsset_C"
+    },
+    {
+      "name": "Kogitsune",
+      "id": "9A9C629B-489E-0A3D-7B85-1A8EC3CE5F00",
+      "assetName": "Default__Melee_Yokai_Lv1_PrimaryAsset_C"
     }
   ],
   "equips": [
@@ -30913,6 +32373,11 @@
       "name": "Classic",
       "id": "29A0CFAB-485B-F5D5-779A-B59F85E204A8",
       "assetName": "Default__BasePistolPrimaryAsset_C"
+    },
+    {
+      "name": "Bandit",
+      "id": "410B2E0B-4CEB-1321-1727-20858F7F3477",
+      "assetName": "Default__Compact_PrimaryAsset_C"
     },
     {
       "name": "Ghost",
@@ -31031,6 +32496,12 @@
     }
   ],
   "gameModes": [
+    {
+      "name": "All Random One Site",
+      "id": "1CD8901F-47AF-49CB-D758-E2AFD0EB2A39",
+      "assetName": "AROS_GameMode",
+      "assetPath": "/Game/GameModes/AROS/AROS_GameMode.AROS_GameMode_C"
+    },
     {
       "name": "Estándar",
       "id": "96BD3920-4F36-D026-2B28-C683EB0BCAC5",
@@ -34764,6 +36235,11 @@
       "assetName": "Default__WaterBlaster_PrimaryAsset_C"
     },
     {
+      "name": "Spray Ayakashi",
+      "id": "1C04B3DF-40A8-D3B4-3292-3E88F59D7525",
+      "assetName": "Default__Spray_Yokai_PrimaryAsset_C"
+    },
+    {
       "name": "Spray de Clove",
       "id": "2775D1DE-498F-70B2-EE89-13953D80E620",
       "assetName": "Default__SmonkCallSign_PrimaryAsset_C"
@@ -34902,6 +36378,81 @@
       "name": "Spray Corcel Maravilla",
       "id": "D81A1842-40F3-8321-C57A-EFA2657084D1",
       "assetName": "Default__Unicorn_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Asomada Maestra",
+      "id": "CEF3212E-4CA9-B405-F263-4A9FDAD3B605",
+      "assetName": "Default__Spray_CornerPeek_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Control de Sitio S. A.",
+      "id": "F0FAC2F6-4562-21DD-2BF3-D4AEBA5EA0F7",
+      "assetName": "Default__Spray_EliteMapClub_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Superserie",
+      "id": "A1793E7C-48D7-0F7D-DF37-309194B91278",
+      "assetName": "Default__Spray_GettingSweaty_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Malabar Mortal",
+      "id": "AB50F54F-441B-8ABE-77C4-3D9AA94DF200",
+      "assetName": "Default__Spray_GunJuggling_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Provocación Balística",
+      "id": "E8C58CBA-4092-C7C5-19CE-738ACF5FBB59",
+      "assetName": "Default__Spray_HandsomeTejo_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Fuerza Hercúlea",
+      "id": "914C54DF-41DD-8B47-D586-F1942740506D",
+      "assetName": "Default__Spray_HarborFlex_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray A-Iso-corro",
+      "id": "A7FC3223-49C4-5D8E-C16C-419B716C8BDB",
+      "assetName": "Default__Spray_ISOAimPractice_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Montaje",
+      "id": "A40EBD36-4785-10EF-4111-5B9C520406B1",
+      "assetName": "Default__Spray_Montage_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Pausita",
+      "id": "9207A83E-43E2-E2CD-3A2D-2C93944E9371",
+      "assetName": "Default__Spray_NeonSpinningBall_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Té-n cuidado",
+      "id": "CDB9774B-4A28-0E23-23AB-6E98F63CF6BB",
+      "assetName": "Default__Spray_NotOfMyBusiness_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Ojo de la Depredadora",
+      "id": "2EF279EC-4A9F-5A47-8954-4EB4DD1BBBC1",
+      "assetName": "Default__Spray_ReynaEye_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Tactifuerza: ¡A la carga!",
+      "id": "C4B5F5E7-453F-039F-1782-CBBB12DB7AE7",
+      "assetName": "Default__Spray_SuperSentai_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Flecha en Enfriamiento",
+      "id": "3C13E168-4ABC-23A9-7210-A182DF9C970E",
+      "assetName": "Default__Spray_SweatingIt_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Expresionismo Táctico",
+      "id": "6544E577-4304-92F3-DF63-14A929A3C44A",
+      "assetName": "Default__Spray_TactifriendsCollage_PrimaryAsset_C"
+    },
+    {
+      "name": "Spray Tempestario",
+      "id": "792FF09C-485F-6B90-91AF-5CBB2D855A56",
+      "assetName": "Default__Spray_TheStorm_PrimaryAsset_C"
     },
     {
       "name": "Spray remasterizado 5 Years // Beta",
@@ -38801,6 +40352,11 @@
       "assetName": "Default__WaterBlaster_Level1_PrimaryAsset_C"
     },
     {
+      "name": "Yokai",
+      "id": "3954D92B-4565-A71A-0C32-F3AE89E56CD5",
+      "assetName": "Default__Spray_Yokai_Level1_PrimaryAsset_C"
+    },
+    {
       "name": "SmonkCallSign",
       "id": "31E1D930-4E0E-F2A9-20B2-898C1BABB945",
       "assetName": "Default__SmonkCallSign_Level1_PrimaryAsset_C"
@@ -38939,6 +40495,81 @@
       "name": "Spray Corcel Maravilla",
       "id": "F213F674-4E92-1819-5F81-4A931403B84C",
       "assetName": "Default__Unicorn_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "CornerPeek",
+      "id": "632F2862-470E-29AA-F153-0B9FFBC952D4",
+      "assetName": "Default__Spray_CornerPeek_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "EliteMapClub",
+      "id": "C977781B-4522-EC97-06A5-798864D99BF0",
+      "assetName": "Default__Spray_EliteMapClub_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "GettingSweaty",
+      "id": "BFB274FC-4D33-DF21-C239-F78140CF6128",
+      "assetName": "Default__Spray_GettingSweaty_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "GunJuggling",
+      "id": "A0237ABA-4B9F-CCF4-7D81-07A463E8926F",
+      "assetName": "Default__Spray_GunJuggling_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "HandsomeTejo",
+      "id": "E026750E-4CEF-AD0B-3E97-99B9EE06BC90",
+      "assetName": "Default__Spray_HandsomeTejo_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "HarborFlex",
+      "id": "B5A4A6EE-4A5C-1F9B-5E06-CE888359203F",
+      "assetName": "Default__Spray_HarborFlex_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "ISOAimPractice",
+      "id": "A2D0AF15-4B1F-6F09-9F0B-1A932BC0A466",
+      "assetName": "Default__Spray_ISOAimPractice_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "Montage",
+      "id": "A9349DC3-43EA-3378-4B9C-CA8989B93424",
+      "assetName": "Default__Spray_Montage_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "NeonSpinningBall",
+      "id": "B2F37034-4491-8362-BC4A-168DC3D6BBFB",
+      "assetName": "Default__Spray_NeonSpinningBall_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "NotOfMyBusiness",
+      "id": "0BAAC2B7-4B37-E5EE-461F-C6B7F5E24BAC",
+      "assetName": "Default__Spray_NotOfMyBusiness_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "ReynaEye",
+      "id": "3E209170-468F-A4DA-168E-93857F52BF92",
+      "assetName": "Default__Spray_ReynaEye_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "SuperSentai",
+      "id": "5B293240-4108-8333-AA87-1F93FBA69598",
+      "assetName": "Default__Spray_SuperSentai_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "SweatingIt",
+      "id": "398B31B0-4139-0ED7-2BAE-3484B740BE96",
+      "assetName": "Default__Spray_SweatingIt_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "TactifriendsCollage",
+      "id": "83F23A03-4A0C-99F0-65CC-FF88E16503A3",
+      "assetName": "Default__Spray_TactifriendsCollage_Level1_PrimaryAsset_C"
+    },
+    {
+      "name": "TheStorm",
+      "id": "598814CC-4C16-59F7-E51D-1582B212E00A",
+      "assetName": "Default__Spray_TheStorm_Level1_PrimaryAsset_C"
     },
     {
       "name": "Val5beta",
@@ -39578,6 +41209,11 @@
       "assetName": "Default__GunBuddy_CardboardBox_PrimaryAsset_C"
     },
     {
+      "name": "Buddy Bajas Frescas",
+      "id": "E54D445D-4C1B-2C90-35FA-61BE5770A5B9",
+      "assetName": "Default__GunBuddy_CarFreshener_PrimaryAsset_C"
+    },
+    {
       "name": "Buddy Overlay",
       "id": "7F8099CD-4FCE-C516-0158-A597A3F1BF1A",
       "assetName": "Default__GunBuddy_Cartridge_PrimaryAsset_C"
@@ -39911,6 +41547,11 @@
       "name": "Buddy Moneda V25 // Acto VI",
       "id": "D27BEE0C-47BD-DB44-4A06-0E9BE602A9E8",
       "assetName": "Default__GunBuddy_Coin_V25_A6_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Moneda V26 // Acto I",
+      "id": "9CD37DD1-4A3C-6B6D-5683-4C9A6EC008E6",
+      "assetName": "Default__GunBuddy_Coin_V26_A1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Cometa",
@@ -40391,6 +42032,11 @@
       "name": "Buddy Lindo Helado",
       "id": "108A36D5-44EF-9B4C-B783-B29A6A9AE340",
       "assetName": "Default__GunBuddy_Gelato_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Superserie",
+      "id": "04AC0811-4EA2-9B65-5A68-4AAA3A98912F",
+      "assetName": "Default__GunBuddy_GettingSweaty_PrimaryAsset_C"
     },
     {
       "name": "Buddy Gimbap",
@@ -40931,6 +42577,11 @@
       "name": "Epílogo: Buddy Suelten a la Bestia",
       "id": "01B8E9E0-4CCB-7603-2BBA-B9BA952B0306",
       "assetName": "Default__GunBuddy_MonsterTruckGold_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Montaje",
+      "id": "6B52DDB6-41A0-6D2E-CDD4-9EBBFDC06320",
+      "assetName": "Default__GunBuddy_Montage_PrimaryAsset_C"
     },
     {
       "name": "Buddy Dulces de Medio Otoño",
@@ -42059,46 +43710,91 @@
     },
     {
       "name": "Buddy V25A6: Ascendente",
+      "id": "588B149B-48FF-0245-140C-CF8B306ABD47",
+      "assetName": "Default__GunBuddy_RankV25A6_Ascendant_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Bronce",
+      "id": "7347AA04-4635-290B-97A6-F7B6E69EFC96",
+      "assetName": "Default__GunBuddy_RankV25A6_Bronze_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Diamante",
+      "id": "3C957A51-4FB2-F610-3898-9AB27B148CAA",
+      "assetName": "Default__GunBuddy_RankV25A6_Diamond_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Oro",
+      "id": "78C4CD56-43EE-96C5-06F8-EEB81F30181D",
+      "assetName": "Default__GunBuddy_RankV25A6_Gold_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Inmortal",
+      "id": "C33C4D0C-4E99-907F-5A8B-A882D46E1AC1",
+      "assetName": "Default__GunBuddy_RankV25A6_Immortal_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Hierro",
+      "id": "73BF55B9-4F13-6414-CE6C-AB87B0507781",
+      "assetName": "Default__GunBuddy_RankV25A6_Iron_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Platino",
+      "id": "9335F494-4596-8A01-4900-9C87F919DD2C",
+      "assetName": "Default__GunBuddy_RankV25A6_Platinum_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Radiante",
+      "id": "95D089C6-4B72-4473-E72F-81847D5451DE",
+      "assetName": "Default__GunBuddy_RankV25A6_Radiant_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Plata",
+      "id": "959BD067-4FFE-3D1F-4487-C4A0BC3C90B3",
+      "assetName": "Default__GunBuddy_RankV25A6_Silver_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A3: Ascendente",
       "id": "DE08AE9E-4405-7BC0-EB14-D3A9F2822F8F",
       "assetName": "Default__GunBuddy_RankV25_Ascendant_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Bronce",
+      "name": "Buddy V25A3: Bronce",
       "id": "DC34E72D-48D0-40CE-53A6-A1BE42B534AB",
       "assetName": "Default__GunBuddy_RankV25_Bronze_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Diamante",
+      "name": "Buddy V25A3: Diamante",
       "id": "BC75BA3E-4393-1F2B-1C01-3FB47EDF1F5B",
       "assetName": "Default__GunBuddy_RankV25_Diamond_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Oro",
+      "name": "Buddy V25A3: Oro",
       "id": "D74C34ED-4E90-224B-BF6E-DBA9D0FEA145",
       "assetName": "Default__GunBuddy_RankV25_Gold_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Inmortal",
+      "name": "Buddy V25A3: Inmortal",
       "id": "51BD423A-4EFF-23C3-1340-7D92D237B3AF",
       "assetName": "Default__GunBuddy_RankV25_Immortal_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Hierro",
+      "name": "Buddy V25A3: Hierro",
       "id": "566AEE55-4146-8309-45B6-67B76B5880E5",
       "assetName": "Default__GunBuddy_RankV25_Iron_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Platino",
+      "name": "Buddy V25A3: Platino",
       "id": "99470112-48A2-1EC9-393F-D38A44622CFC",
       "assetName": "Default__GunBuddy_RankV25_Platinum_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Radiante",
+      "name": "Buddy V25A3: Radiante",
       "id": "7BA2DD21-44C1-163B-162D-6099A3412726",
       "assetName": "Default__GunBuddy_RankV25_Radiant_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Plata",
+      "name": "Buddy V25A3: Plata",
       "id": "4DCAA253-4C2C-56F9-9AB1-4F82B06CA110",
       "assetName": "Default__GunBuddy_RankV25_Silver_PrimaryAsset_C"
     },
@@ -42413,6 +44109,11 @@
       "assetName": "Default__GunBuddy_SplitScuttlebug_PrimaryAsset_C"
     },
     {
+      "name": "Buddy ¡H2-Oh!",
+      "id": "21180071-452A-2C30-A041-07923E53933A",
+      "assetName": "Default__GunBuddy_SportsWaterBottle_PrimaryAsset_C"
+    },
+    {
       "name": "Buddy Protector de Sobrecarga",
       "id": "89DAC44E-42B3-3FD3-50EC-7982980D2B53",
       "assetName": "Default__GunBuddy_Sprinter_PrimaryAsset_C"
@@ -42491,6 +44192,16 @@
       "name": "Buddy Camión de Comida",
       "id": "2A987627-4645-23D1-364E-79AAD4915073",
       "assetName": "Default__GunBuddy_TacoTruck_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Estilo Grizzly",
+      "id": "10669D23-4332-5F53-9D4E-06A8DD641A1E",
+      "assetName": "Default__GunBuddy_TactianimalCollectableToy_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Tactipato Árbitro",
+      "id": "DD899BAB-4E15-E977-FA7C-B3911583C2D2",
+      "assetName": "Default__GunBuddy_TactianimalReferee_PrimaryAsset_C"
     },
     {
       "name": "Buddy Tácticas de Oso",
@@ -42598,6 +44309,11 @@
       "assetName": "Default__GunBuddy_Terrarium_PrimaryAsset_C"
     },
     {
+      "name": "Buddy Tempestario",
+      "id": "BF7CFD66-4E9C-44F7-5727-EABE5183E3A3",
+      "assetName": "Default__GunBuddy_TheStorm_PrimaryAsset_C"
+    },
+    {
       "name": "Buddy Orbe de Radianita",
       "id": "CD1EF501-476D-E9FB-3944-A6B0E2A79878",
       "assetName": "Default__GunBuddy_Thorne_PrimaryAsset_C"
@@ -42631,6 +44347,16 @@
       "name": "Buddy Pulpirri",
       "id": "934164FC-49DD-1E67-0896-6C8E645FD081",
       "assetName": "Default__GunBuddy_ToyOctopus_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Amiguín Protocolar",
+      "id": "4C4CC9C0-4DB5-6AD2-65F4-F59F5F763F35",
+      "assetName": "Default__GunBuddy_TrainingBot_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Epílogo: Amiguín Protocolar",
+      "id": "ACFD6C31-4786-6059-B93A-D49A8C23E2F6",
+      "assetName": "Default__GunBuddy_TrainingBotGold_PrimaryAsset_C"
     },
     {
       "name": "Buddy Basura Escurridiza",
@@ -43063,6 +44789,11 @@
       "assetName": "Default__GunBuddy_YinYang_PrimaryAsset_C"
     },
     {
+      "name": "Buddy Ayakashi",
+      "id": "2DD5C66E-4C4D-D9B8-B279-44A65E934BAE",
+      "assetName": "Default__GunBuddy_Yokai_PrimaryAsset_C"
+    },
+    {
       "name": "Buddy Drip Dimensional",
       "id": "2020356C-4061-7736-053D-90963F8E3CAF",
       "assetName": "Default__GunBuddy_YoruSneaker_PrimaryAsset_C"
@@ -43393,6 +45124,11 @@
       "name": "Buddy Gatito Escurridizo",
       "id": "5CAA4DB4-40A9-EB96-3D64-679E3A02432C",
       "assetName": "Default__GunBuddy_CardboardBox_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Bajas Frescas",
+      "id": "E2FB2BB5-414F-9F60-48E6-65ABE2551A67",
+      "assetName": "Default__GunBuddy_CarFreshener_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Overlay",
@@ -43728,6 +45464,11 @@
       "name": "Buddy Moneda V25 // Acto VI",
       "id": "842F33B1-4F56-C8D4-D178-44958A2A8886",
       "assetName": "Default__GunBuddy_Coin_V25_A6_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Moneda V26 // Acto I",
+      "id": "BBADC641-449E-BE7E-2B91-26B7F56A0EC6",
+      "assetName": "Default__GunBuddy_Coin_V26_A1_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Cometa",
@@ -44208,6 +45949,11 @@
       "name": "Buddy Lindo Helado",
       "id": "461EE5BC-4325-67F1-9E3F-42952FB8F898",
       "assetName": "Default__GunBuddy_Gelato_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Superserie",
+      "id": "01084093-44A2-1BE3-24F0-5FB573930284",
+      "assetName": "Default__GunBuddy_GettingSweaty_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Gimbap",
@@ -44748,6 +46494,11 @@
       "name": "Epílogo: Buddy Suelten a la Bestia",
       "id": "11C2EAD2-4F00-8ED2-32D1-4CADC9BD13C8",
       "assetName": "Default__GunBuddy_MonsterTruckGold_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Montaje",
+      "id": "FB750174-4DA2-5D62-30B7-D1998EFD0D13",
+      "assetName": "Default__GunBuddy_Montage_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Dulces de Medio Otoño",
@@ -45876,46 +47627,91 @@
     },
     {
       "name": "Buddy V25A6: Ascendente",
+      "id": "9760352B-4AC6-8211-7A40-FEB1228EBBE3",
+      "assetName": "Default__GunBuddy_RankV25A6_Ascendant_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Bronce",
+      "id": "2D5D8335-4FD5-A43A-013B-B098792F90B7",
+      "assetName": "Default__GunBuddy_RankV25A6_Bronze_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Diamante",
+      "id": "5C0B108A-4AEA-707A-805C-D9A34A342572",
+      "assetName": "Default__GunBuddy_RankV25A6_Diamond_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Oro",
+      "id": "68175A9D-4EFE-AC87-D9B3-ACB5D2D3A992",
+      "assetName": "Default__GunBuddy_RankV25A6_Gold_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Inmortal",
+      "id": "6B235709-4DE1-BB75-4856-EE90C644C988",
+      "assetName": "Default__GunBuddy_RankV25A6_Immortal_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Hierro",
+      "id": "C4BF1C49-4F0E-86E4-0454-B9865F1A0548",
+      "assetName": "Default__GunBuddy_RankV25A6_Iron_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Platino",
+      "id": "005E249F-48D4-4412-E05E-EC83591D6736",
+      "assetName": "Default__GunBuddy_RankV25A6_Platinum_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Radiante",
+      "id": "73304328-4BFE-2DBE-1AE2-8984BC62C423",
+      "assetName": "Default__GunBuddy_RankV25A6_Radiant_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A6: Plata",
+      "id": "C5CB69C4-49F6-9E32-5981-EF92EDFAE140",
+      "assetName": "Default__GunBuddy_RankV25A6_Silver_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy V25A3: Ascendente",
       "id": "E9938219-400A-A7ED-9E64-1B8D4A4B2126",
       "assetName": "Default__GunBuddy_RankV25_Ascendant_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Bronce",
+      "name": "Buddy V25A3: Bronce",
       "id": "3F4973B1-4978-B52A-1A52-73B58C2525F0",
       "assetName": "Default__GunBuddy_RankV25_Bronze_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Diamante",
+      "name": "Buddy V25A3: Diamante",
       "id": "2577F362-4046-FA0A-02DA-0D970AFD3479",
       "assetName": "Default__GunBuddy_RankV25_Diamond_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Oro",
+      "name": "Buddy V25A3: Oro",
       "id": "478152BC-47D9-2068-A408-05B0949EAF72",
       "assetName": "Default__GunBuddy_RankV25_Gold_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Inmortal",
+      "name": "Buddy V25A3: Inmortal",
       "id": "207D02D8-4642-B039-E3D4-6EB5A37E87D0",
       "assetName": "Default__GunBuddy_RankV25_Immortal_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Hierro",
+      "name": "Buddy V25A3: Hierro",
       "id": "EC70658F-44B1-3EB1-41CA-E4B5ACAF48ED",
       "assetName": "Default__GunBuddy_RankV25_Iron_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Platino",
+      "name": "Buddy V25A3: Platino",
       "id": "82DF7DC3-4753-681F-A932-629777CBC3A7",
       "assetName": "Default__GunBuddy_RankV25_Platinum_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Radiante",
+      "name": "Buddy V25A3: Radiante",
       "id": "22BE4075-4BF4-4000-BECA-068ED21CA476",
       "assetName": "Default__GunBuddy_RankV25_Radiant_Lv1_PrimaryAsset_C"
     },
     {
-      "name": "Buddy V25A6: Plata",
+      "name": "Buddy V25A3: Plata",
       "id": "8CFE7CC9-4888-8630-1D29-3496FC706ACE",
       "assetName": "Default__GunBuddy_RankV25_Silver_Lv1_PrimaryAsset_C"
     },
@@ -46230,6 +48026,11 @@
       "assetName": "Default__GunBuddy_SplitScuttlebug_Lv1_PrimaryAsset_C"
     },
     {
+      "name": "Buddy ¡H2-Oh!",
+      "id": "51C3F8AE-40C3-263A-896E-06A82DB545D0",
+      "assetName": "Default__GunBuddy_SportsWaterBottle_Lv1_PrimaryAsset_C"
+    },
+    {
       "name": "Buddy Protector de Sobrecarga",
       "id": "17C98849-440C-2ED1-B2AB-4CACA1A61A9F",
       "assetName": "Default__GunBuddy_Sprinter_Lv1_PrimaryAsset_C"
@@ -46308,6 +48109,16 @@
       "name": "Buddy Camión de Comida",
       "id": "3DAA5EC8-4B38-F259-D010-BE93AF34FC47",
       "assetName": "Default__GunBuddy_TacoTruck_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Estilo Grizzly",
+      "id": "CA9A4CA5-48A2-591D-0AC4-918E89D37171",
+      "assetName": "Default__GunBuddy_TactianimalCollectableToy_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Tactipato Árbitro",
+      "id": "DCA31ECE-4404-DAD5-6A96-209C494CE097",
+      "assetName": "Default__GunBuddy_TactianimalReferee_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Tácticas de Oso",
@@ -46415,6 +48226,11 @@
       "assetName": "Default__GunBuddy_Terrarium_Lv1_PrimaryAsset_C"
     },
     {
+      "name": "Buddy Tempestario",
+      "id": "FEAC86D5-4487-23E7-AAEE-A8B699D19926",
+      "assetName": "Default__GunBuddy_TheStorm_Lv1_PrimaryAsset_C"
+    },
+    {
       "name": "Buddy Orbe de Radianita",
       "id": "45D9B8F8-41A6-0FF5-01EB-7987FB000D31",
       "assetName": "Default__GunBuddy_Thorne_Lv1_PrimaryAsset_C"
@@ -46448,6 +48264,16 @@
       "name": "Buddy Pulpirri",
       "id": "BB19DD92-4D45-CB6A-51FD-718EEB08D1A1",
       "assetName": "Default__GunBuddy_ToyOctopus_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Amiguín Protocolar",
+      "id": "102DE6E4-454D-B9A1-A354-BF85B5691239",
+      "assetName": "Default__GunBuddy_TrainingBot_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Epílogo: Amiguín Protocolar",
+      "id": "ECDD3C7A-42FB-E92D-A400-A480C15A6253",
+      "assetName": "Default__GunBuddy_TrainingBotGold_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Basura Escurridiza",
@@ -46878,6 +48704,11 @@
       "name": "Buddy Convergencia",
       "id": "F3BB9439-44A2-6365-4719-45BE2BCA7110",
       "assetName": "Default__GunBuddy_YinYang_Lv1_PrimaryAsset_C"
+    },
+    {
+      "name": "Buddy Ayakashi",
+      "id": "BE311F47-4217-1D00-64F0-C49944FE0824",
+      "assetName": "Default__GunBuddy_Yokai_Lv1_PrimaryAsset_C"
     },
     {
       "name": "Buddy Drip Dimensional",
@@ -49377,6 +51208,21 @@
       "assetName": "Default__PlayerCard_NPE03_PrimaryAsset_C"
     },
     {
+      "name": "Tarjeta V26: Conflicto // Enfrenta el Fuego",
+      "id": "FDAE9F4E-45EA-7F50-AF72-2CA6FAF8D240",
+      "assetName": "Default__Playercard_ConflictFlames_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta V26: Conflicto // Sangre y Veneno",
+      "id": "B1E2C3BE-41C0-1540-8E54-CFAF9FD17060",
+      "assetName": "Default__Playercard_ConflictViper_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta V26: Conflicto // Hermanita",
+      "id": "312CBB6C-494A-DF58-8300-D69BDA7E1FC3",
+      "assetName": "Default__Playercard_FirstLightReyna_PrimaryAsset_C"
+    },
+    {
       "name": "Tarjeta Veto de VALORANT",
       "id": "BC81104F-4AFB-98D3-A04D-73BC99649888",
       "assetName": "Default__Playercard_PineCard1_PrimaryAsset_C"
@@ -50062,6 +51908,11 @@
       "assetName": "Default__Playercard_Welcome_02_PrimaryAsset_C"
     },
     {
+      "name": "Tarjeta Ayakashi",
+      "id": "A54DB3BF-4BA8-B421-964F-59A881F27B53",
+      "assetName": "Default__Playercard_Yokai_PrimaryAsset_C"
+    },
+    {
       "name": "Tarjeta Centinelas de la Luz, Ep 7",
       "id": "02CA101E-4F41-FC84-6412-F28230297D76",
       "assetName": "Default__Playercard_SOL2_PrimaryAsset_C"
@@ -50450,6 +52301,76 @@
       "name": "Tarjeta ID de Veto",
       "id": "EFFBFB4E-471A-2F6B-8EC1-2C8A29B579F9",
       "assetName": "Default__Playercard_VetoJoins_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta DÚO // Bum Asegurado",
+      "id": "CC6D102C-4059-EBB0-1355-78840C2EE676",
+      "assetName": "Default__Playercard_AgentWomboCombo_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Esquema Bandido",
+      "id": "C06B12B4-4517-5608-3EB9-B1B2D4F57D84",
+      "assetName": "Default__Playercard_BanditSchema_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Epílogo: Protocolo Jaque Mate",
+      "id": "62EC8878-45D9-AEFE-AC50-BA8E3D8C2A0F",
+      "assetName": "Default__Playercard_EpilogueGunsChessandBullets_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Superserie",
+      "id": "5DE91B46-4070-A0DB-B6FD-8EB9A9E4524D",
+      "assetName": "Default__Playercard_GettingSweaty_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Protocolo Jaque Mate",
+      "id": "A4FBAE3A-4D7B-45AF-8F81-58A4C6206C71",
+      "assetName": "Default__Playercard_GunsChessandBullets_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Cardiogarras",
+      "id": "0B328CB9-4395-3119-A902-9F97E9FE1AEF",
+      "assetName": "Default__Playercard_JazzerciseTactanimals_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Montaje",
+      "id": "AC113906-40ED-BC73-3163-DBBB3256B5B0",
+      "assetName": "Default__Playercard_Montage_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Imparable // Chamber",
+      "id": "1CE0823C-4399-ABDC-8230-FF82727E13FF",
+      "assetName": "Default__Playercard_PowerFantasyChamber_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Sucesión Venenosa",
+      "id": "C27560D1-42E8-AECA-1420-F1A130D11CCB",
+      "assetName": "Default__Playercard_SnakeVsRaven_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Amplificación",
+      "id": "8E4C97CA-4364-A7FC-9D2D-92B787499D05",
+      "assetName": "Default__Playercard_SonicAlchemy_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Operación: Derrape",
+      "id": "2AEA3BED-48C6-5579-47C7-00B1C6F79A62",
+      "assetName": "Default__Playercard_TactiKartRacing_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Tempestario",
+      "id": "539326E9-4D84-6799-F6E1-9AA3FB0A0795",
+      "assetName": "Default__Playercard_TheStorm_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Chapuzón",
+      "id": "23D25D01-42E2-E0F3-97B6-888408ECCC16",
+      "assetName": "Default__Playercard_TimeToGym_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta Que mediten los mortales",
+      "id": "79828279-42A3-81E6-AB5F-3A8A0ADD281D",
+      "assetName": "Default__Playercard_UnfocusedGroupMeditation_PrimaryAsset_C"
     },
     {
       "name": "Tarjeta remasterizada 5 Years // Beta",
@@ -50915,6 +52836,221 @@
       "name": "Tarjeta VCT25 x ZETA",
       "id": "CC0EA2B6-433C-8731-2C42-8CA1787CED46",
       "assetName": "Default__Playercard_VCTCaps25_ZETA_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x 100T",
+      "id": "80D8F89E-47F1-8DC9-5866-B4BEA0F3782D",
+      "assetName": "Default__Playercard_VCTCaps26_100T_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x AG",
+      "id": "48564CC8-4CB6-9188-34E2-2D9ACF0D510E",
+      "assetName": "Default__Playercard_VCTCaps26_AG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x BBL",
+      "id": "165DDC6E-4A04-B7F9-5C73-04A0AD9D9974",
+      "assetName": "Default__Playercard_VCTCaps26_BBL_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x BLG",
+      "id": "DB99BF1B-436E-DC60-F0BE-05B62F3F5519",
+      "assetName": "Default__Playercard_VCTCaps26_BLG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x C9",
+      "id": "460879EA-4E1A-1F84-7D44-8A921B4277D2",
+      "assetName": "Default__Playercard_VCTCaps26_C9_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x DFM",
+      "id": "39DEDAA1-4B51-9FC0-52CA-5B89EB451ADA",
+      "assetName": "Default__Playercard_VCTCaps26_DFM_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x DRG",
+      "id": "35252D8E-450D-5D97-A8DC-20823364A0EF",
+      "assetName": "Default__Playercard_VCTCaps26_DRG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x DRX",
+      "id": "AF343BA5-49BA-BFBA-3549-52974072C2E1",
+      "assetName": "Default__Playercard_VCTCaps26_DRX_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x EDG",
+      "id": "88876CD2-4B49-5E42-0A99-87974030F253",
+      "assetName": "Default__Playercard_VCTCaps26_EDG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x EG",
+      "id": "B98C0083-4507-8758-DE2A-7F92E14FBEF3",
+      "assetName": "Default__Playercard_VCTCaps26_EG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x FNC",
+      "id": "A4279868-4F4C-5CA3-5EAD-52AAD1A09FE8",
+      "assetName": "Default__Playercard_VCTCaps26_FNC_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x FPX",
+      "id": "E5F5A622-43BF-E2E4-2636-77A32C5E21D6",
+      "assetName": "Default__Playercard_VCTCaps26_FPX_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x FUR",
+      "id": "CB621418-4865-017E-9EA6-B28C4860E0FC",
+      "assetName": "Default__Playercard_VCTCaps26_FUR_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x FUT",
+      "id": "87499A95-45FB-562B-0FEA-248595B92F63",
+      "assetName": "Default__Playercard_VCTCaps26_FUT_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x G2",
+      "id": "89BF1311-403B-CDD9-80F3-859BD3B33C6F",
+      "assetName": "Default__Playercard_VCTCaps26_G2_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x GE",
+      "id": "E5AB0071-4603-B189-5664-7B8802D2FEC0",
+      "assetName": "Default__Playercard_VCTCaps26_GE_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x GEN",
+      "id": "AF799FE9-44F6-B015-C62C-7894DF09B4B9",
+      "assetName": "Default__Playercard_VCTCaps26_GEN_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x GX",
+      "id": "D02677DA-48F4-8FB8-B6B3-E19FD541A508",
+      "assetName": "Default__Playercard_VCTCaps26_GX_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x JDG",
+      "id": "2E42BAC5-41A4-D05B-B09E-F98A1B420125",
+      "assetName": "Default__Playercard_VCTCaps26_JDG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x KC",
+      "id": "0F687882-4400-60E4-F78B-7F8B930C24E6",
+      "assetName": "Default__Playercard_VCTCaps26_KC_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x KRÜ",
+      "id": "0289EE43-4B12-497F-A972-EC8E293B6C7A",
+      "assetName": "Default__Playercard_VCTCaps26_KRU_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x LEV",
+      "id": "1AD8901B-49C7-CB36-0948-FDB5EBE0A565",
+      "assetName": "Default__Playercard_VCTCaps26_LEV_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x LOUD",
+      "id": "1D07D8E8-457F-7110-8EE0-62BE180DF596",
+      "assetName": "Default__Playercard_VCTCaps26_LOUD_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x M8",
+      "id": "3D582A4F-498E-2104-5C7F-6DAB3F8A85EB",
+      "assetName": "Default__Playercard_VCTCaps26_M8_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x MIBR",
+      "id": "B1791030-48BA-A7B7-45DE-E39CD3B90C57",
+      "assetName": "Default__Playercard_VCTCaps26_MIBR_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x NAVI",
+      "id": "EB45CAA2-4360-6976-21C5-87826EDD4CBF",
+      "assetName": "Default__Playercard_VCTCaps26_NAVI_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x NOVA",
+      "id": "72165290-4C6D-AE1C-5B97-CFA5E91AF130",
+      "assetName": "Default__Playercard_VCTCaps26_NOVA_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x NRG",
+      "id": "05B8FDD3-4C8E-BA77-CCCE-3FA98A8E4067",
+      "assetName": "Default__Playercard_VCTCaps26_NRG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x NS",
+      "id": "24E45AC7-47CF-DF03-C74E-8FB7909BD1D6",
+      "assetName": "Default__Playercard_VCTCaps26_NS_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x PRX",
+      "id": "6BFB3FCA-49DC-E129-D85E-10A162DD4D3F",
+      "assetName": "Default__Playercard_VCTCaps26_PRX_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x RRQ",
+      "id": "BA476930-4934-1161-C18E-E88A28AEC00D",
+      "assetName": "Default__Playercard_VCTCaps26_RRQ_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x SEN",
+      "id": "9981159C-4844-D37D-B585-A4A7C18A3EBD",
+      "assetName": "Default__Playercard_VCTCaps26_SEN_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x T1",
+      "id": "E9F5814E-492D-B4A5-4903-68A6476EF04E",
+      "assetName": "Default__Playercard_VCTCaps26_T1_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x TE",
+      "id": "7985BA58-4878-7ACA-F7A7-8C95395C49E4",
+      "assetName": "Default__Playercard_VCTCaps26_TE_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x TEC",
+      "id": "40AC09C8-45E1-B057-59F1-9AAF08F12CA3",
+      "assetName": "Default__Playercard_VCTCaps26_TEC_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x TH",
+      "id": "A47307E5-4F61-F36F-53B4-FDB1F8BE9F75",
+      "assetName": "Default__Playercard_VCTCaps26_TH_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x TL",
+      "id": "2D6F3B02-4E17-1B71-D3ED-72A84B73A0D9",
+      "assetName": "Default__Playercard_VCTCaps26_TL_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x TS",
+      "id": "98D9D20E-42D2-F4DF-7F66-6BBBC281E47F",
+      "assetName": "Default__Playercard_VCTCaps26_TS_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x TYL",
+      "id": "D116E3FE-49A1-AF69-BC7F-8C93C53DF72F",
+      "assetName": "Default__Playercard_VCTCaps26_TYL_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x VIT",
+      "id": "47B9CF4C-4ACD-B50E-535D-C6B9DFB791B8",
+      "assetName": "Default__Playercard_VCTCaps26_VIT_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x WOL",
+      "id": "D4F4C5FC-4601-CA99-0E3E-63A96CB5B8AE",
+      "assetName": "Default__Playercard_VCTCaps26_WOL_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x XLG",
+      "id": "4099B62E-4CE3-5213-2FCA-FD8784501453",
+      "assetName": "Default__Playercard_VCTCaps26_XLG_PrimaryAsset_C"
+    },
+    {
+      "name": "Tarjeta VCT26 x ZETA",
+      "id": "99C6CCF9-4516-2089-96DB-6FB387DEE1CC",
+      "assetName": "Default__Playercard_VCTCaps26_ZETA_PrimaryAsset_C"
     },
     {
       "name": "Día de dúo: Tarjeta Noche de juego",
@@ -52592,6 +54728,21 @@
       "name": "Título Armonía",
       "id": "5D15CFA5-4820-83BB-62CA-908B0A0C6343",
       "assetName": "Default__PlayerTitle_Harmony_PrimaryAsset_C"
+    },
+    {
+      "name": "Título Implacable",
+      "id": "E535C93D-44C5-0206-12C2-2ABE5046FDFD",
+      "assetName": "Default__PlayerTitle_Sweaty_PrimaryAsset_C"
+    },
+    {
+      "name": "Título Espectacular",
+      "id": "FAA51024-4BC3-3CDB-6D15-31990F4B01E1",
+      "assetName": "Default__PlayerTitle_Performative_PrimaryAsset_C"
+    },
+    {
+      "name": "Título Seis Siete",
+      "id": "8198F12E-4899-0F25-8319-CBAD87D9097B",
+      "assetName": "Default__PlayerTitle_67_PrimaryAsset_C"
     },
     {
       "name": "Título β",
