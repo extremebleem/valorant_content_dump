@@ -54894,7 +54894,7 @@
       "parentId": "00000000-0000-0000-0000-000000000000",
       "type": "episode",
       "name": "V26",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "ce2783e8-44fc-dd48-3da3-33b5ba6c4a22",
@@ -54915,21 +54915,21 @@
       "parentId": "15a01c8a-4637-7b7b-de7b-9f906719c020",
       "type": "act",
       "name": "АКТ 1",
-      "isActive": false
+      "isActive": true
     },
     {
       "id": "c470d964-4bf4-1261-87aa-c484252f2d66",
       "parentId": "00000000-0000-0000-0000-000000000000",
       "type": "episode",
       "name": "V25",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "4c4b8cff-43eb-13d3-8f14-96b783c90cd2",
       "parentId": "c470d964-4bf4-1261-87aa-c484252f2d66",
       "type": "act",
       "name": "АКТ 6",
-      "isActive": true
+      "isActive": false
     },
     {
       "id": "5adc33fa-4f30-2899-f131-6fba64c5dd3a",
